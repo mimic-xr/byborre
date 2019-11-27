@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 996a7d4627c67cf4f88acab42a9d9f44
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: root/shirt3
+    100002: object 0/shirt3 [0] 0
+    400000: root/shirt3/Transform
+    400002: object 0/shirt3 [0] 0/Transform
+    2300000: object 0/shirt3 [0] 0/MeshRenderer
+    3300000: object 0/shirt3 [0] 0/MeshFilter
+    11400000: object 0/shirt3 [0] 0/MonoBehaviour-DeformPattern
+    100100000: root
+    100100002: object 0
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 5c42948f3e868fb4e8736157bc9697aa, type: 3}

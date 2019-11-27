@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 36363244be434f346a9156ea1d1b08ec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bob01Mesh
+    100002: Camera
+    100004: CMU compliant skeleton
+    100006: //RootNode
+    100008: Head
+    100010: Head_end
+    100012: high-polyMesh
+    100014: Hips
+    100016: Lamp
+    100018: LeftArm
+    100020: LeftFingerBase
+    100022: LeftFoot
+    100024: LeftForeArm
+    100026: LeftHand
+    100028: LeftHandFinger1
+    100030: LeftHandFinger1_end
+    100032: LeftLeg
+    100034: LeftShoulder
+    100036: LeftToeBase
+    100038: LeftToeBase_end
+    100040: LeftUpLeg
+    100042: LHipJoint
+    100044: LowerBack
+    100046: LThumb
+    100048: LThumb_end
+    100050: makehuman_rigged_w_hairMesh
+    100052: Neck
+    100054: Neck1
+    100056: RHipJoint
+    100058: RightArm
+    100060: RightFingerBase
+    100062: RightFoot
+    100064: RightForeArm
+    100066: RightHand
+    100068: RightHandFinger1
+    100070: RightHandFinger1_end
+    100072: RightLeg
+    100074: RightShoulder
+    100076: RightToeBase
+    100078: RightToeBase_end
+    100080: RightUpLeg
+    100082: RThumb
+    100084: RThumb_end
+    100086: Spine
+    100088: Spine1
+    400000: bob01Mesh
+    400002: Camera
+    400004: CMU compliant skeleton
+    400006: //RootNode
+    400008: Head
+    400010: Head_end
+    400012: high-polyMesh
+    400014: Hips
+    400016: Lamp
+    400018: LeftArm
+    400020: LeftFingerBase
+    400022: LeftFoot
+    400024: LeftForeArm
+    400026: LeftHand
+    400028: LeftHandFinger1
+    400030: LeftHandFinger1_end
+    400032: LeftLeg
+    400034: LeftShoulder
+    400036: LeftToeBase
+    400038: LeftToeBase_end
+    400040: LeftUpLeg
+    400042: LHipJoint
+    400044: LowerBack
+    400046: LThumb
+    400048: LThumb_end
+    400050: makehuman_rigged_w_hairMesh
+    400052: Neck
+    400054: Neck1
+    400056: RHipJoint
+    400058: RightArm
+    400060: RightFingerBase
+    400062: RightFoot
+    400064: RightForeArm
+    400066: RightHand
+    400068: RightHandFinger1
+    400070: RightHandFinger1_end
+    400072: RightLeg
+    400074: RightShoulder
+    400076: RightToeBase
+    400078: RightToeBase_end
+    400080: RightUpLeg
+    400082: RThumb
+    400084: RThumb_end
+    400086: Spine
+    400088: Spine1
+    2000000: Camera
+    2100000: high-poly
+    2100002: makehuman_rigged_w_hair
+    2100004: bob01
+    4300000: high-polyMesh
+    4300002: makehuman_rigged_w_hairMesh
+    4300004: bob01Mesh
+    7400000: CMU compliant skeleton|CMU compliant skeleton|mixamo.com|Layer0
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: bob01Mesh
+    13700002: high-polyMesh
+    13700004: makehuman_rigged_w_hairMesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
