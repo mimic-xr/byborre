@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Deform Dynamics/Scenes/Demos/Characters/CharacterRunningBerkeleyDress.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0

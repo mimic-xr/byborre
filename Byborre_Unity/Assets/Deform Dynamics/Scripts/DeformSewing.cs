@@ -681,10 +681,10 @@ public class DeformSewing : MonoBehaviour
             prev = (index + contourPoints.Length - 1) % contourPoints.Length;
             next = (index + 1) % contourPoints.Length;
 
-            Vector3 a = v[contourPoints[prev]] - v[contourPoints[index]];
-            Vector3 b = v[contourPoints[next]] - v[contourPoints[index]];
+            Vector3 a = (v[contourPoints[prev]] - v[contourPoints[index]]).normalized;
+            Vector3 b = (v[contourPoints[next]] - v[contourPoints[index]]).normalized;
 
-            float angle = Vector3.Dot(a, b) / (a.magnitude * b.magnitude);
+            float angle = Vector3.Dot(a, b);
 
             if (Mathf.Abs(angle) < contourBreakThreshold)
             {
@@ -942,7 +942,7 @@ public class DeformSewing : MonoBehaviour
         {
             seam.seamIndices.Add(fromContourPoints[from_points[i] % fromContourPoints.Length]);
         }
-        else if (from_end > 0 && from_end < fromContourPoints.Length)
+        else if (from_end >= 0 && from_end < fromContourPoints.Length)
         {
             seam.seamIndices.Add(fromContourPoints[from_end]);
         }        
@@ -951,7 +951,7 @@ public class DeformSewing : MonoBehaviour
         {
             seam.seamIndices.Add(toContourPoints[to_points[i] % toContourPoints.Length]);
         }
-        else if (to_end > 0 && to_end < toContourPoints.Length)
+        else if (to_end >= 0 && to_end < toContourPoints.Length)
         {
             seam.seamIndices.Add(toContourPoints[to_end]);
         }        

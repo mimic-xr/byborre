@@ -19,7 +19,7 @@ public class DeformModifierBend : MonoBehaviour
     [SerializeField, HideInInspector]
     public Vector3 symmetryAxisVector;
 
-    [Range(-360, 360)]
+    [Range(-1080, 1080)]
     public float angle = 0.0f;
 
     [SerializeField, HideInInspector]
