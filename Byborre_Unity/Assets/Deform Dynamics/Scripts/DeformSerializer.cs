@@ -12,6 +12,9 @@ public class DeformSerializer : MonoBehaviour
 {
 	public string fileName;
 
+    [SerializeField]
+    private static Vector2[][] saved_uv;
+
 	public void Save()
 	{
 		DeformDynamics.DeformPlugin.Serialization.SaveSerializedData(fileName);
@@ -20,6 +23,7 @@ public class DeformSerializer : MonoBehaviour
 		DeformBody[] deformObjects = FindObjectsOfType<DeformBody>();
 		string deformObjectsJson = "";
 
+        saved_uv = new Vector2[deformObjects.Length][];
 
 		for (int i = 0; i < deformObjects.Length; i++)
 		{
@@ -44,11 +48,13 @@ public class DeformSerializer : MonoBehaviour
 				scale = deformObjects[i].transform.localScale,
 
 				//disableRendering = deformObjects[i].disableRendering,
-				material = deformObjects[i].GetComponent<MeshRenderer>().sharedMaterial,
+				material = deformObjects[i].GetComponent<SkinnedMeshRenderer>().sharedMaterial,
 				wireframe = wf_exists
 			};
 
 			deformObjectsJson += JsonUtility.ToJson(doj) + "\n";
+
+            saved_uv[i] = deformObjects[i].GetComponent<SkinnedMeshRenderer>().sharedMesh.uv;
 		}
 
 		DeformSeam[] deformSeams = FindObjectsOfType<DeformSeam>();
@@ -163,9 +169,10 @@ public class DeformSerializer : MonoBehaviour
 
 			GameObject go = new GameObject(serializedUnityData.name + " [Serialized]");
 
-			//Add Components
-			go.AddComponent<MeshFilter>();
-			go.AddComponent<MeshRenderer>();
+            //Add Components
+            //go.AddComponent<MeshFilter>();
+            //go.AddComponent<MeshRenderer>();
+            go.AddComponent<SkinnedMeshRenderer>();
 			go.AddComponent<DeformBody>();
 
 			go.transform.position = position;
@@ -232,18 +239,19 @@ public class DeformSerializer : MonoBehaviour
 				vertices[i] = go.transform.InverseTransformPoint(vertices[i]);
 			}
 
-			Mesh newMesh = new Mesh
-			{
-				vertices = vertices,
-				triangles = indices
-			};
+            Mesh newMesh = new Mesh
+            {
+                vertices = vertices,
+                triangles = indices,
+                uv = saved_uv[object_id]
+            };
 
 			newMesh.RecalculateNormals();
 			newMesh.RecalculateBounds();
 
-			go.GetComponent<MeshFilter>().sharedMesh = newMesh;
+			go.GetComponent<SkinnedMeshRenderer>().sharedMesh = newMesh;
 
-			go.GetComponent<MeshRenderer>().material = serializedUnityData.material;//Resources.Load<Material>("Materials/DeformNoMaterial");
+			go.GetComponent<SkinnedMeshRenderer>().material = serializedUnityData.material;//Resources.Load<Material>("Materials/DeformNoMaterial");
 
 
 			DeformBody db = go.GetComponent<DeformBody>();

@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 
-[RequireComponent(typeof(MeshFilter))]
+//[RequireComponent(typeof(MeshFilter))]
+[RequireComponent(typeof(SkinnedMeshRenderer))]
 [AddComponentMenu("Deform Dynamics/Utilities/Deform Modifier Bend")]
 public class DeformModifierBend : MonoBehaviour
 { 
@@ -62,7 +63,7 @@ public class DeformModifierBend : MonoBehaviour
 			return;
 		}
 
-        Mesh mesh = GetComponent<MeshFilter>().sharedMesh;
+        Mesh mesh = GetComponent<SkinnedMeshRenderer>().sharedMesh;
 
         if (!mesh) return;
 
@@ -137,7 +138,9 @@ public class DeformModifierBend : MonoBehaviour
     
     public void ApplyBending()
     {
-        GetComponent<MeshFilter>().sharedMesh = Instantiate(preview);        
+        GetComponent<SkinnedMeshRenderer>().sharedMesh = Instantiate(preview);
+        GetComponent<SkinnedMeshRenderer>().sharedMesh.uv = original_mesh.uv;
+
         angle = 0;
 
         // Set this to reinitialize using new configuration
@@ -162,9 +165,9 @@ public class DeformModifierBend : MonoBehaviour
 #if UNITY_EDITOR
 	private void OnDrawGizmos()
 	{
-		if (GetComponent<MeshFilter>().sharedMesh != null &&
+		if (GetComponent<SkinnedMeshRenderer>().sharedMesh != null &&
 			original_mesh != null &&
-			!MeshUtils.MeshTriangleListIdentical(original_mesh, GetComponent<MeshFilter>().sharedMesh))
+			!MeshUtils.MeshTriangleListIdentical(original_mesh, GetComponent<SkinnedMeshRenderer>().sharedMesh))
 		{
 			original_mesh = null;
 			initialized = false;
