@@ -10,6 +10,8 @@ public class Armature : MonoBehaviour
     public float Mass;
     public bool reset;
     public float speed;
+    public bool cw;
+    public bool ccw;
     public GameObject[] bone;
     public Quaternion[] StartRotation;
     void Awake()
@@ -38,12 +40,28 @@ public class Armature : MonoBehaviour
         {
             DefultPose();
         }
+        if(cw==true)
+        {
+            RotateCW();
+        }
+        if (ccw == true)
+        {
+            RotateCCW();
+        }
     }
 
+    void RotateCW()
+    {
+        bone[0].GetComponent<Transform>().RotateAround(transform.position, transform.up, Time.deltaTime * 60f);
+    }
+    void RotateCCW()
+    {
+        bone[0].GetComponent<Transform>().RotateAround(transform.position, transform.up, Time.deltaTime * -60f);
+    }
     void DefultPose()
     {
         int i = 0;
-        while (i < 6)
+        while (i<6)
         {
             LerpRotation(bone[i].GetComponent<Transform>(), StartRotation[i]);
             i = i + 1;
