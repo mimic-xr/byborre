@@ -12,7 +12,7 @@ public class FabricPatch : MonoBehaviour
     {
         Startp = GetComponent<Transform>().transform.position;
         Sangle = GetComponent<Transform>().transform.rotation;
-        Manager = GameObject.Find("FabricManager");
+        Manager = GameObject.Find("Manager");
     }
     void Update()
     {
