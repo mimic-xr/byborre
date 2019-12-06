@@ -326,6 +326,7 @@
     <Compile Include="Assets\M-XR\Scripts\FabricPatch.cs" />
     <Compile Include="Assets\M-XR\Scripts\HingeJointTarget.cs" />
     <Compile Include="Assets\M-XR\Scripts\MatBox.cs" />
+    <Compile Include="Assets\M-XR\Scripts\RotationBox.cs" />
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <None Include="Assets\LeapMotion\Core\Version.txt" />

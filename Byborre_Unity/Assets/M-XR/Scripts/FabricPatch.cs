@@ -43,7 +43,12 @@ public class FabricPatch : MonoBehaviour
         }
         if (other.name == "FabricZone")
         {
-            foreach(GameObject box in Manager.GetComponent<FabricManager>().FabricBox)
+            foreach (GameObject box in Manager.GetComponent<FabricManager>().RotationBox)
+            {
+                box.SetActive(false);
+            }
+
+            foreach (GameObject box in Manager.GetComponent<FabricManager>().FabricBox)
             {
                 box.SetActive(true);
             }    

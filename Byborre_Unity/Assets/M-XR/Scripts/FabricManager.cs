@@ -16,6 +16,7 @@ public class FabricManager : MonoBehaviour
     public Pattern[] Patterns;
     public GameObject[] FabricBox;
     public Material[] FabricBox_mats;
+    public GameObject[] RotationBox;
     // Start is called before the first frame update
     void Start()
     {
@@ -47,10 +48,34 @@ public class FabricManager : MonoBehaviour
         {
             Box.SetActive(false);
         }
+        foreach (GameObject Box in RotationBox)
+        {
+            Box.SetActive(true);
+        }
     }
     public void UpdateLines(int index)
     {
+        int TargetLine = FindClosest(index);
         lineRenderer.SetPosition(0, Patterns[index].BoxTarget.GetComponent<Transform>().position);
-        lineRenderer.SetPosition(1, Patterns[index].UItarget[0].GetComponent<Transform>().position);
+        lineRenderer.SetPosition(1, Patterns[index].UItarget[TargetLine].GetComponent<Transform>().position);
+    }
+
+    int FindClosest(int index)
+    {
+        Vector3 a = Patterns[index].UItarget[0].GetComponent<Transform>().position;
+        Vector3 b = Patterns[index].UItarget[1].GetComponent<Transform>().position;
+        Vector3 Target = FabricBox[index].GetComponent<Transform>().position;
+        float dist_a = Vector3.Distance(a, Target);
+        float dist_b = Vector3.Distance(b, Target);
+        int value = 0;
+        if(dist_a<dist_b)
+        {
+            value = 0;
+        }
+        if(dist_b<dist_a)
+        {
+            value = 1;
+        }
+        return value;
     }
 }
