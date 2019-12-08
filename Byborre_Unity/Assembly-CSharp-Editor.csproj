@@ -132,6 +132,21 @@
     <Compile Include="Assets\LeapMotion\Core\Scripts\Utils\Editor\UtilsTests.cs" />
     <Compile Include="Assets\LeapMotion\Core\Scripts\XR\Editor\LeapEyeDislocatorEditor.cs" />
     <Compile Include="Assets\LeapMotion\Core\Scripts\XR\Editor\XRHeightOffsetEditor.cs" />
+    <Compile Include="Assets\LeapMotion\Modules\Hands\Scripts\Editor\LeapHandsAutoRigEditor.cs" />
+    <Compile Include="Assets\LeapMotion\Modules\InteractionEngine\Examples\3. Interaction Callbacks\Scripts\Editor\TransformHandleEditor.cs" />
+    <Compile Include="Assets\LeapMotion\Modules\InteractionEngine\Examples\6. Dynamic UI\Scripts\Editor\WorkstationBehaviourEditor.cs" />
+    <Compile Include="Assets\LeapMotion\Modules\InteractionEngine\Scripts\Editor\ContactBoneParentEditor.cs" />
+    <Compile Include="Assets\LeapMotion\Modules\InteractionEngine\Scripts\Editor\InteractionBehaviourEditor.cs" />
+    <Compile Include="Assets\LeapMotion\Modules\InteractionEngine\Scripts\Editor\InteractionControllerEditor.cs" />
+    <Compile Include="Assets\LeapMotion\Modules\InteractionEngine\Scripts\Editor\InteractionHandEditor.cs" />
+    <Compile Include="Assets\LeapMotion\Modules\InteractionEngine\Scripts\Editor\InteractionManagerEditor.cs" />
+    <Compile Include="Assets\LeapMotion\Modules\InteractionEngine\Scripts\Editor\InteractionVRControllerEditor.cs" />
+    <Compile Include="Assets\LeapMotion\Modules\InteractionEngine\Scripts\Internal\Editor\InteractionChecks.cs" />
+    <Compile Include="Assets\LeapMotion\Modules\InteractionEngine\Scripts\UI\Anchors\Editor\AnchorEditor.cs" />
+    <Compile Include="Assets\LeapMotion\Modules\InteractionEngine\Scripts\UI\Anchors\Editor\AnchorableBehaviourEditor.cs" />
+    <Compile Include="Assets\LeapMotion\Modules\InteractionEngine\Scripts\UI\Editor\InteractionButtonEditor.cs" />
+    <Compile Include="Assets\LeapMotion\Modules\InteractionEngine\Scripts\UI\Editor\InteractionSliderEditor.cs" />
+    <Compile Include="Assets\LeapMotion\Modules\InteractionEngine\Scripts\Utility\Editor\IgnoreColliderForInteractionEditor.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
     <Reference Include="UnityEditor.TestRunner">
       <HintPath>C:/Users/Elliott/REPO's/Byborre/byborre/Byborre_Unity/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
@@ -387,6 +402,9 @@
     </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+    </Reference>
+    <Reference Include="InteractionEngineUtility">
+      <HintPath>C:/Users/Elliott/REPO's/Byborre/byborre/Byborre_Unity/Assets/LeapMotion/Modules/InteractionEngine/Plugins/InteractionEngineUtility.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.NRefactory">
       <HintPath>C:/Users/Elliott/REPO's/Byborre/byborre/Byborre_Unity/Library/PackageCache/com.unity.render-pipelines.core@7.1.5/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
