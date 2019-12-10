@@ -87,7 +87,8 @@ public class DeformBodyProxy : MonoBehaviour
 		}
 	}
 
-	[MenuItem("GameObject/Deform Dynamics/Deform Body Proxy", false, 1)]
+#if UNITY_EDITOR
+    [MenuItem("GameObject/Deform Dynamics/Deform Body Proxy", false, 1)]
 	static void CreateDeformBodyProxy(MenuCommand menuCommand)
 	{
 		GameObject c = new GameObject("DeformBodyProxy");
@@ -97,4 +98,5 @@ public class DeformBodyProxy : MonoBehaviour
 		Selection.activeObject = c;
 
 	}
+#endif
 }
