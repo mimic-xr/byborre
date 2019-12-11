@@ -1069,7 +1069,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 94
+  m_Constraints: 30
   m_CollisionDetection: 0
 --- !u!65 &5022922518336770669
 BoxCollider:
@@ -1658,12 +1658,12 @@ CharacterJoint:
     spring: 0
     damper: 0
   m_LowTwistLimit:
-    limit: -20
+    limit: -30.066689
     bounciness: 0
     contactDistance: 0
   m_HighTwistLimit:
-    limit: 70
-    bounciness: 0
+    limit: 35.16227
+    bounciness: 1
     contactDistance: 0
   m_SwingLimitSpring:
     spring: 0
