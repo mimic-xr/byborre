@@ -391,6 +391,7 @@
     <Compile Include="Assets\M-XR\Scripts\LightController.cs" />
     <Compile Include="Assets\M-XR\Scripts\LightSwitch.cs" />
     <Compile Include="Assets\M-XR\Scripts\MatBox.cs" />
+    <Compile Include="Assets\M-XR\Scripts\RotateY.cs" />
     <Compile Include="Assets\M-XR\Scripts\RotationBox.cs" />
     <Compile Include="Assets\MeshCreator.cs" />
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />

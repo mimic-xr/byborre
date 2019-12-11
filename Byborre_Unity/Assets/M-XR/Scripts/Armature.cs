@@ -6,6 +6,8 @@ public class Armature : MonoBehaviour
 {
     // Start is called before the first frame update
     public float AngDrag;
+    public Transform Hips;
+    public Vector3 HipStart;
     public float Drag;
     public float Mass;
     public bool reset;
@@ -30,12 +32,13 @@ public class Armature : MonoBehaviour
     }
     void Start()
     {
-        
+        HipStart = Hips.transform.position;
     }
 
     // Update is called once per frame
     void Update()
     {
+        Hips.transform.position = HipStart;
         if(reset==true)
         {
             DefultPose();

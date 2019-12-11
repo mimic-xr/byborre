@@ -10,10 +10,10 @@ Material:
   m_Name: Waffle_Rust
   m_Shader: {fileID: -6465566751694194690, guid: de59b5c009e9cd944905726e6188fdd6,
     type: 3}
-  m_ShaderKeywords: 
+  m_ShaderKeywords: _DOUBLESIDED_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
-  m_DoubleSidedGI: 0
+  m_DoubleSidedGI: 1
   m_CustomRenderQueue: 2000
   stringTagMap:
     MotionVector: User
@@ -47,6 +47,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 0d4893273ece58e4fb6686bd883d7c6f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - Texture2D_5A838AD9:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture2D_63C54EE6:
         m_Texture: {fileID: 2800000, guid: 1061fc44f64266e4c933aac9d01539ff, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -59,8 +63,16 @@ Material:
         m_Texture: {fileID: 2800000, guid: 6e2ebdbc518470a4a991b7a1d9b86a2a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - Texture2D_78F5F90F:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture2D_8B33E1A5:
         m_Texture: {fileID: 2800000, guid: 4a0ebe5cd1aaafe42a62b9e57e3da2fe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_9EEB68EB:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_B215E117:
@@ -180,6 +192,7 @@ Material:
     - Vector1_30E97CF3: 0.1
     - Vector1_5C7D978E: -3.73
     - Vector1_72DD0A24: 4.92
+    - Vector1_97BBE9A1: 1
     - _AORemapMax: 1
     - _AORemapMin: 0
     - _ATDistance: 1
@@ -195,8 +208,8 @@ Material:
     - _Anisotropy: 0
     - _BlendMode: 0
     - _CoatMask: 0
-    - _CullMode: 2
-    - _CullModeForward: 2
+    - _CullMode: 0
+    - _CullModeForward: 0
     - _Cutoff: 0.5
     - _DepthOffsetEnable: 0
     - _DetailAlbedoScale: 1
@@ -221,7 +234,7 @@ Material:
     - _DistortionSrcBlend: 0
     - _DistortionVectorBias: -1
     - _DistortionVectorScale: 2
-    - _DoubleSidedEnable: 0
+    - _DoubleSidedEnable: 1
     - _DoubleSidedNormalMode: 1
     - _DstBlend: 0
     - _EmissiveColorMode: 1
