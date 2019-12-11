@@ -80,49 +80,50 @@ public class DeformBodyEditor : Editor
         }
 
         EditorGUILayout.PropertyField(distanceStiffness_Prop);
+        EditorGUILayout.PropertyField(bendingStiffness_Prop);
 
-        EditorGUI.BeginChangeCheck();
-        EditorGUILayout.BeginHorizontal();
-        EditorGUILayout.PrefixLabel("Bending Stiffness");
-                
-        bendingProxy = GUILayout.HorizontalSlider(bendingProxy, 0, 1, GUILayout.ExpandWidth(true));
+        //EditorGUI.BeginChangeCheck();
+        //EditorGUILayout.BeginHorizontal();
+        //EditorGUILayout.PrefixLabel("Bending Stiffness");
 
-        if (EditorGUI.EndChangeCheck())
-        {
-            deformBody.bendingStiffness = Mathf.Pow(bendingProxy, 10);
+        //bendingProxy = GUILayout.HorizontalSlider(bendingProxy, 0, 1, GUILayout.ExpandWidth(true));
 
-            if (Application.isPlaying)
-            {
-                DeformPlugin.Object.SetBendingStiffness(deformBody.id, deformBody.bendingStiffness);
-            }
-        }
+        //if (EditorGUI.EndChangeCheck())
+        //{
+        //    deformBody.bendingStiffness = Mathf.Pow(bendingProxy, 10);
 
-        string bending = deformBody.bendingStiffness.ToString();
+        //    if (Application.isPlaying)
+        //    {
+        //        DeformPlugin.Object.SetBendingStiffness(deformBody.id, deformBody.bendingStiffness);
+        //    }
+        //}
 
-        if (bending.Contains("E"))
-        {
-            bending = bending.Substring(0, 3) + bending.Substring(bending.IndexOf('E'));
-        }
+        //string bending = deformBody.bendingStiffness.ToString();
 
-        EditorGUI.BeginChangeCheck();
-        bending = EditorGUILayout.TextField(bending, GUILayout.MaxWidth(50));
+        //if (bending.Contains("E"))
+        //{
+        //    bending = bending.Substring(0, 3) + bending.Substring(bending.IndexOf('E'));
+        //}
 
-        if (EditorGUI.EndChangeCheck())
-        {
-            if (float.TryParse(bending, out float value))
-            {
-                deformBody.bendingStiffness = value;
-            }
+        //EditorGUI.BeginChangeCheck();
+        //bending = EditorGUILayout.TextField(bending, GUILayout.MaxWidth(50));
 
-            bendingProxy = Mathf.Pow(deformBody.bendingStiffness, 0.1f);
+        //if (EditorGUI.EndChangeCheck())
+        //{
+        //    if (float.TryParse(bending, out float value))
+        //    {
+        //        deformBody.bendingStiffness = value;
+        //    }
 
-            if (Application.isPlaying)
-            {
-                DeformPlugin.Object.SetBendingStiffness(deformBody.id, deformBody.bendingStiffness);
-            }
-        }
+        //    bendingProxy = Mathf.Pow(deformBody.bendingStiffness, 0.1f);
 
-        EditorGUILayout.EndHorizontal();
+        //    if (Application.isPlaying)
+        //    {
+        //        DeformPlugin.Object.SetBendingStiffness(deformBody.id, deformBody.bendingStiffness);
+        //    }
+        //}
+
+        //EditorGUILayout.EndHorizontal();
 
         EditorGUILayout.PropertyField(mergeCloseVertices_Prop);
         EditorGUILayout.PropertyField(simulationMesh_Prop);

@@ -6,6 +6,7 @@ using System.Runtime.InteropServices;
 using DeformDynamics;
 using UnityEditor;
 
+#if UNITY_EDITOR
 [RequireComponent(typeof(MeshFilter))]
 public class Retriangulator : MonoBehaviour
 {
@@ -84,8 +85,9 @@ public class Retriangulator : MonoBehaviour
         result.RecalculateBounds();
         result.name = inputMesh.name + "_r";
         
-        var savePath = "Assets/M-XR/Models/Garment/DD/" + result.name + ".asset";
+        var savePath = "Assets/M-XR/Models/Garment/DD/New" + result.name + ".asset";
 
         AssetDatabase.CreateAsset(result, savePath);
     }
 }
+#endif
