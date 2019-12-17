@@ -37,6 +37,7 @@ namespace Leap.Unity.Interaction {
   public class InteractionBehaviour : MonoBehaviour, IInteractionBehaviour {
 
     public const float MAX_ANGULAR_VELOCITY = 100F;
+        
 
     #region Public API
 
@@ -1216,12 +1217,12 @@ namespace Leap.Unity.Interaction {
 
     public void BeginGrasp(List<InteractionController> controllers) {
       _justGrasped = true;
-
-      // End suspension by ending the grasp on the suspending hand,
-      // calling EndGrasp immediately.
-      if (isSuspended) {
+            
+            // End suspension by ending the grasp on the suspending hand,
+            // calling EndGrasp immediately.
+            if (isSuspended) {
         _suspendingController.ReleaseGrasp();
-      }
+       }
 
       // If multi-grasp is not allowed, release the old grasp.
       if (!allowMultiGrasp && isGrasped) {
@@ -1272,8 +1273,9 @@ namespace Leap.Unity.Interaction {
         // having been suspended also means we were only grasped by one hand
         EndSuspension(controllers[0]);
       }
+        
 
-      foreach (var controller in controllers) {
+        foreach (var controller in controllers) {
         _graspingControllers.Remove(controller);
 
         // Fire interaction callback.

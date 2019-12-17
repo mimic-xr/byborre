@@ -23,7 +23,6 @@ namespace Leap.Unity.Interaction {
   /// Anchor component.
   /// </summary>
   public class AnchorableBehaviour : MonoBehaviour {
-
     [Disable]
     [SerializeField]
     [Tooltip("Whether or not this AnchorableBehaviour is actively attached to its anchor.")]
@@ -90,6 +89,7 @@ namespace Leap.Unity.Interaction {
 
             if (_anchor != null) {
               isAttached = true;
+
             }
             else {
               isAttached = false;
@@ -120,7 +120,6 @@ namespace Leap.Unity.Interaction {
         if (_anchorGroup != null) _anchorGroup.NotifyAnchorableObjectAdded(this);
       }
     }
-
     [Header("Attachment")]
 
     [Tooltip("Anchors beyond this range are ignored as possible anchors for this object.")]
