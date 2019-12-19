@@ -1,179 +1,1606 @@
-[2019-12-17 20:18:38.245] [log] [info] vivace version number: 334
-[2019-12-17 20:18:38.246] [log] [info] setting default parameters..
-[2019-12-17 20:18:38.265] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
-[2019-12-17 20:18:38.265] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.267] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.267] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.267] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.483] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.484] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.495] [log] [info] nb particle: 981 nb face: 1832 nb_tetra: 0 nb edges: 2812
-[2019-12-17 20:18:38.495] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.495] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.495] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.496] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.499] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.499] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.515] [log] [info] nb particle: 1665 nb face: 3144 nb_tetra: 0 nb edges: 4808
-[2019-12-17 20:18:38.516] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.517] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.517] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.517] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.522] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.522] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.524] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
-[2019-12-17 20:18:38.525] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.525] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.525] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.525] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.527] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.527] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.529] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.530] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.541] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
-[2019-12-17 20:18:38.542] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.543] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.543] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.543] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.546] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.546] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.549] [log] [info] nb particle: 323 nb face: 551 nb_tetra: 0 nb edges: 873
-[2019-12-17 20:18:38.549] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.550] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.550] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.550] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.552] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.552] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.555] [log] [info] nb particle: 108 nb face: 169 nb_tetra: 0 nb edges: 276
-[2019-12-17 20:18:38.556] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.556] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.556] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.556] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.559] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.559] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.561] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.561] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.564] [log] [info] nb particle: 333 nb face: 570 nb_tetra: 0 nb edges: 902
-[2019-12-17 20:18:38.564] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.565] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.565] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.565] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.568] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.568] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.569] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
-[2019-12-17 20:18:38.570] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.571] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.571] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.571] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.573] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.573] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.575] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.575] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.595] [log] [info] nb particle: 1383 nb face: 2575 nb_tetra: 0 nb edges: 3955
-[2019-12-17 20:18:38.595] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.596] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.596] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.596] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.602] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.602] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.612] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
-[2019-12-17 20:18:38.613] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.613] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.613] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.613] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.619] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.619] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.620] [log] [info] nb particle: 48 nb face: 61 nb_tetra: 0 nb edges: 108
-[2019-12-17 20:18:38.621] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.622] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.622] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.622] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.625] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.625] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.627] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
-[2019-12-17 20:18:38.628] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.628] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.628] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.628] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.632] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.632] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.635] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.635] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.656] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
-[2019-12-17 20:18:38.657] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.658] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.658] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.658] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.664] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.664] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.665] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
-[2019-12-17 20:18:38.666] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.666] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.666] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.666] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.670] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.670] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.673] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.674] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.675] [log] [info] nb particle: 109 nb face: 171 nb_tetra: 0 nb edges: 279
-[2019-12-17 20:18:38.676] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.676] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.676] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.676] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.680] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.680] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.684] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.684] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.685] [log] [info] nb particle: 21 nb face: 24 nb_tetra: 0 nb edges: 44
-[2019-12-17 20:18:38.686] [log] [info] defining stretch and bending constraints ...
-[2019-12-17 20:18:38.686] [log] [info] defining tetrahedral constraints ...
-[2019-12-17 20:18:38.686] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.686] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.690] [log] [info] defining constraints' rest values
-[2019-12-17 20:18:38.690] [log] [info] ParticleSystemCuda::Reload
-[2019-12-17 20:18:38.692] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:38.693] [log] [info] ParticleSystemCuda::ReloadPos
-[2019-12-17 20:18:39.412] [log] [info] added collider 1, duration: 0.712783
-[2019-12-17 20:18:40.036] [log] [warning] Seam 0 is not continuous, some bending constraints were not created.
-[2019-12-17 20:18:40.036] [log] [warning] Seam 1 is not continuous, some bending constraints were not created.
-[2019-12-17 20:18:40.037] [log] [info] *******
-[2019-12-17 20:18:40.037] [log] [info] vertices: 9211
-[2019-12-17 20:18:40.037] [log] [info] faces: 50349
-[2019-12-17 20:18:40.037] [log] [info] tetras: 0
-[2019-12-17 20:18:40.037] [log] [info] constraints[STRETCH]: 26798
-[2019-12-17 20:18:40.037] [log] [info] constraints[BENDING]: 25139
-[2019-12-17 20:18:40.037] [log] [info] constraints[TETRA_VOLUME]: 0
-[2019-12-17 20:18:40.037] [log] [info] *******
-[2019-12-17 20:18:40.038] [log] [info] computational platform: GPU CUDA
-[2019-12-17 20:18:40.038] [log] [info] CUDA device [GeForce GTX 1050 Ti with Max-Q Design] has 6 multi-processors
-[2019-12-17 20:18:40.042] [log] [info] Integrator: Verlet 1st
-[2019-12-17 20:18:40.254] [log] [info] Validated
-[2019-12-17 20:18:40.255] [log] [info] Solver: Position-based Dynamics Gauss-Seidel
-[2019-12-17 20:18:40.282] [log] [info] Graph Info:
-[2019-12-17 20:18:40.283] [log] [info]  size: 26798, max degree: 15, min degree 4, avg degree 9.90962
-[2019-12-17 20:18:40.360] [log] [info] [30] colored: 26798 / 26798 [colors: 11]
-[2019-12-17 20:18:40.360] [log] [info] nb batches: 11
-[2019-12-17 20:18:40.360] [log] [info] 0: 4026  1: 4017  2: 4018  3: 3994  4: 3877  5: 3055  6: 2378  7: 1203  8: 210  9: 19  10: 1  
-[2019-12-17 20:18:40.463] [log] [info] Graph Info:
-[2019-12-17 20:18:40.463] [log] [info]  size: 25139, max degree: 39, min degree 7, avg degree 27.4046
-[2019-12-17 20:18:40.652] [log] [info] [36] colored: 25139 / 25139 [colors: 22]
-[2019-12-17 20:18:40.652] [log] [info] nb batches: 22
-[2019-12-17 20:18:40.652] [log] [info] 0: 1536  1: 1534  2: 1536  3: 1546  4: 1532  5: 1547  6: 1544  7: 1520  8: 1536  9: 1486  10: 1452  11: 1406  12: 1383  13: 1287  14: 1165  15: 1025  16: 920  17: 670  18: 370  19: 115  20: 28  21: 1  
-[2019-12-17 20:18:40.691] [log] [info] Collider: Self0
-[2019-12-17 20:18:40.749] [log] [info] ParticleSystem::RemoveSelfIntersectingSurfaceParticles updating gpu data structures ...
-[2019-12-17 20:18:40.749] [log] [info] Collider Self GPU data structures destroyed
-[2019-12-17 20:18:40.750] [log] [info] Collider: Mesh Collider1
-[2019-12-17 20:18:40.765] [log] [info] initialization finished, duration: 0.728727
-[2019-12-17 20:18:58.882] [log] [info] msg:   deform   prt 100.00 glb 100.00 - time 18115.75 - fps: 0.00 avg fps: 0.01
-[2019-12-17 20:18:58.882] [log] [info] msg: 
-[2019-12-17 20:18:58.882] [log] [info] GPU CUDA
-[2019-12-17 20:18:58.882] [log] [info] iterations: 2 dt: 0.001
-[2019-12-17 20:18:58.882] [log] [info] total constraints: 51937 total particles: 9211
-[2019-12-17 20:18:58.882] [log] [info] avg_err: 0%
-[2019-12-17 20:18:58.882] [log] [info] shutting down..
-[2019-12-17 20:18:58.882] [log] [info] Integrator: Destroy
-[2019-12-17 20:18:58.882] [log] [info] solver: deallocating gpu data structures ..
-[2019-12-17 20:18:58.883] [log] [info] solver: done
-[2019-12-17 20:18:58.883] [log] [info] Collider Self GPU data structures destroyed
-[2019-12-17 20:18:58.886] [log] [info] Collider: Self0 destroyed
-[2019-12-17 20:18:58.886] [log] [info] Collider: Mesh Collider1 destroyed
+[2019-12-18 19:05:05.644] [log] [info] vivace version number: 334
+[2019-12-18 19:05:05.647] [log] [info] setting default parameters..
+[2019-12-18 19:05:05.676] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-18 19:05:05.676] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:05.678] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:05.678] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:05.678] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:06.861] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:06.863] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:06.903] [log] [info] nb particle: 981 nb face: 1832 nb_tetra: 0 nb edges: 2812
+[2019-12-18 19:05:06.903] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:06.906] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:06.906] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:06.906] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:06.916] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:06.916] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:06.948] [log] [info] nb particle: 1665 nb face: 3144 nb_tetra: 0 nb edges: 4808
+[2019-12-18 19:05:06.948] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:06.949] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:06.949] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:06.950] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:06.956] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:06.957] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:06.960] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-18 19:05:06.960] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:06.960] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:06.960] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:06.960] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:06.963] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:06.963] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:06.965] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:06.965] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:06.980] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-18 19:05:06.981] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:06.982] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:06.982] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:06.982] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:06.986] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:06.986] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:06.990] [log] [info] nb particle: 323 nb face: 551 nb_tetra: 0 nb edges: 873
+[2019-12-18 19:05:06.990] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:06.991] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:06.991] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:06.991] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:06.994] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:06.995] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:06.998] [log] [info] nb particle: 108 nb face: 169 nb_tetra: 0 nb edges: 276
+[2019-12-18 19:05:06.999] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:06.999] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:06.999] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:06.999] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.003] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.003] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.005] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.005] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.009] [log] [info] nb particle: 333 nb face: 570 nb_tetra: 0 nb edges: 902
+[2019-12-18 19:05:07.009] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:07.010] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:07.010] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.010] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.013] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.013] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.016] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-18 19:05:07.017] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:07.017] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:07.017] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.017] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.021] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.021] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.024] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.025] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.051] [log] [info] nb particle: 1383 nb face: 2575 nb_tetra: 0 nb edges: 3955
+[2019-12-18 19:05:07.052] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:07.053] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:07.053] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.053] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.060] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.061] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.074] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-18 19:05:07.075] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:07.076] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:07.076] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.077] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.084] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.084] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.086] [log] [info] nb particle: 48 nb face: 61 nb_tetra: 0 nb edges: 108
+[2019-12-18 19:05:07.087] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:07.087] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:07.087] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.087] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.092] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.093] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.095] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-18 19:05:07.096] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:07.097] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:07.097] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.097] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.102] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.102] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.108] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.108] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.138] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-18 19:05:07.139] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:07.140] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:07.140] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.140] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.148] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.149] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.150] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-18 19:05:07.151] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:07.151] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:07.151] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.151] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.157] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.157] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.161] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.162] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.164] [log] [info] nb particle: 109 nb face: 171 nb_tetra: 0 nb edges: 279
+[2019-12-18 19:05:07.165] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:07.165] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:07.165] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.165] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.170] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.170] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.175] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.176] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.177] [log] [info] nb particle: 21 nb face: 24 nb_tetra: 0 nb edges: 44
+[2019-12-18 19:05:07.178] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:05:07.178] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:05:07.178] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.178] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.183] [log] [info] defining constraints' rest values
+[2019-12-18 19:05:07.183] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:05:07.187] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:07.187] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:05:08.096] [log] [info] added collider 1, duration: 0.900506
+[2019-12-18 19:05:08.907] [log] [warning] Seam 0 is not continuous, some bending constraints were not created.
+[2019-12-18 19:05:08.907] [log] [warning] Seam 1 is not continuous, some bending constraints were not created.
+[2019-12-18 19:05:08.909] [log] [info] *******
+[2019-12-18 19:05:08.909] [log] [info] vertices: 9211
+[2019-12-18 19:05:08.909] [log] [info] faces: 50349
+[2019-12-18 19:05:08.909] [log] [info] tetras: 0
+[2019-12-18 19:05:08.909] [log] [info] constraints[STRETCH]: 26798
+[2019-12-18 19:05:08.909] [log] [info] constraints[BENDING]: 25139
+[2019-12-18 19:05:08.909] [log] [info] constraints[TETRA_VOLUME]: 0
+[2019-12-18 19:05:08.909] [log] [info] *******
+[2019-12-18 19:05:08.909] [log] [info] computational platform: GPU CUDA
+[2019-12-18 19:05:08.910] [log] [info] CUDA device [GeForce GTX 1050 Ti with Max-Q Design] has 6 multi-processors
+[2019-12-18 19:05:08.915] [log] [info] Integrator: Verlet 1st
+[2019-12-18 19:05:08.942] [log] [info] Solver: Position-based Dynamics Gauss-Seidel
+[2019-12-18 19:05:09.013] [log] [info] Graph Info:
+[2019-12-18 19:05:09.014] [log] [info]  size: 26798, max degree: 15, min degree 4, avg degree 9.90962
+[2019-12-18 19:05:09.160] [log] [info] [30] colored: 26798 / 26798 [colors: 11]
+[2019-12-18 19:05:09.160] [log] [info] nb batches: 11
+[2019-12-18 19:05:09.160] [log] [info] 0: 4026  1: 4017  2: 4018  3: 3994  4: 3877  5: 3055  6: 2378  7: 1203  8: 210  9: 19  10: 1  
+[2019-12-18 19:05:09.302] [log] [info] Graph Info:
+[2019-12-18 19:05:09.302] [log] [info]  size: 25139, max degree: 39, min degree 7, avg degree 27.4046
+[2019-12-18 19:05:09.560] [log] [info] [36] colored: 25139 / 25139 [colors: 22]
+[2019-12-18 19:05:09.560] [log] [info] nb batches: 22
+[2019-12-18 19:05:09.560] [log] [info] 0: 1536  1: 1534  2: 1536  3: 1546  4: 1532  5: 1547  6: 1544  7: 1520  8: 1536  9: 1486  10: 1452  11: 1406  12: 1383  13: 1287  14: 1165  15: 1025  16: 920  17: 670  18: 370  19: 115  20: 28  21: 1  
+[2019-12-18 19:05:09.616] [log] [info] Collider: Self0
+[2019-12-18 19:05:09.691] [log] [info] ParticleSystem::RemoveSelfIntersectingSurfaceParticles updating gpu data structures ...
+[2019-12-18 19:05:09.692] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-18 19:05:09.692] [log] [info] Collider: Mesh Collider1
+[2019-12-18 19:05:09.708] [log] [info] initialization finished, duration: 0.801137
+[2019-12-18 19:05:30.155] [log] [info] msg:   deform   prt 100.00 glb 100.00 - time 20444.89 - fps: 0.00 avg fps: 0.01
+[2019-12-18 19:05:30.155] [log] [info] msg: 
+[2019-12-18 19:05:30.155] [log] [info] GPU CUDA
+[2019-12-18 19:05:30.155] [log] [info] iterations: 2 dt: 0.001
+[2019-12-18 19:05:30.155] [log] [info] total constraints: 51937 total particles: 9211
+[2019-12-18 19:05:30.155] [log] [info] avg_err: 0%
+[2019-12-18 19:05:30.156] [log] [info] shutting down..
+[2019-12-18 19:05:30.157] [log] [info] Integrator: Destroy
+[2019-12-18 19:05:30.157] [log] [info] solver: deallocating gpu data structures ..
+[2019-12-18 19:05:30.158] [log] [info] solver: done
+[2019-12-18 19:05:30.159] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-18 19:05:30.169] [log] [info] Collider: Self0 destroyed
+[2019-12-18 19:05:30.169] [log] [info] Collider: Mesh Collider1 destroyed
+[2019-12-18 19:09:16.588] [log] [info] vivace version number: 334
+[2019-12-18 19:09:16.588] [log] [info] setting default parameters..
+[2019-12-18 19:09:16.614] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-18 19:09:16.615] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:16.616] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:16.616] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:16.616] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:16.910] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:16.911] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:16.951] [log] [info] nb particle: 981 nb face: 1832 nb_tetra: 0 nb edges: 2812
+[2019-12-18 19:09:16.952] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:16.955] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:16.955] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:16.955] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:16.965] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:16.966] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.002] [log] [info] nb particle: 1665 nb face: 3144 nb_tetra: 0 nb edges: 4808
+[2019-12-18 19:09:17.003] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:17.004] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:17.004] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.004] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.011] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.012] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.015] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-18 19:09:17.015] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:17.015] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:17.015] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.015] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.018] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.018] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.020] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.021] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.035] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-18 19:09:17.036] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:17.037] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:17.037] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.037] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.041] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.041] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.045] [log] [info] nb particle: 323 nb face: 551 nb_tetra: 0 nb edges: 873
+[2019-12-18 19:09:17.046] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:17.046] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:17.046] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.046] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.050] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.050] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.053] [log] [info] nb particle: 108 nb face: 169 nb_tetra: 0 nb edges: 276
+[2019-12-18 19:09:17.054] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:17.055] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:17.055] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.055] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.058] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.058] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.060] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.060] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.064] [log] [info] nb particle: 333 nb face: 570 nb_tetra: 0 nb edges: 902
+[2019-12-18 19:09:17.065] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:17.065] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:17.065] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.065] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.068] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.069] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.071] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-18 19:09:17.071] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:17.072] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:17.072] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.072] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.075] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.075] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.077] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.077] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.102] [log] [info] nb particle: 1383 nb face: 2575 nb_tetra: 0 nb edges: 3955
+[2019-12-18 19:09:17.102] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:17.103] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:17.103] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.104] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.111] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.112] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.131] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-18 19:09:17.133] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:17.135] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:17.135] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.135] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.147] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.148] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.151] [log] [info] nb particle: 48 nb face: 61 nb_tetra: 0 nb edges: 108
+[2019-12-18 19:09:17.153] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:17.154] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:17.154] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.154] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.163] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.164] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.168] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-18 19:09:17.170] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:17.171] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:17.172] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.172] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.181] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.181] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.190] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.191] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.245] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-18 19:09:17.247] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:17.249] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:17.249] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.249] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.261] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.261] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.263] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-18 19:09:17.264] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:17.264] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:17.264] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.264] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.269] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.269] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.274] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.274] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.277] [log] [info] nb particle: 109 nb face: 171 nb_tetra: 0 nb edges: 279
+[2019-12-18 19:09:17.278] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:17.278] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:17.278] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.278] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.284] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.284] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.290] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.291] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.292] [log] [info] nb particle: 21 nb face: 24 nb_tetra: 0 nb edges: 44
+[2019-12-18 19:09:17.294] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:17.294] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:17.294] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.294] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.300] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:17.300] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:17.305] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:17.306] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:18.160] [log] [info] added collider 1, duration: 0.846367
+[2019-12-18 19:09:18.973] [log] [warning] Seam 0 is not continuous, some bending constraints were not created.
+[2019-12-18 19:09:18.973] [log] [warning] Seam 1 is not continuous, some bending constraints were not created.
+[2019-12-18 19:09:18.974] [log] [info] *******
+[2019-12-18 19:09:18.974] [log] [info] vertices: 9211
+[2019-12-18 19:09:18.974] [log] [info] faces: 50349
+[2019-12-18 19:09:18.974] [log] [info] tetras: 0
+[2019-12-18 19:09:18.974] [log] [info] constraints[STRETCH]: 26798
+[2019-12-18 19:09:18.974] [log] [info] constraints[BENDING]: 25139
+[2019-12-18 19:09:18.974] [log] [info] constraints[TETRA_VOLUME]: 0
+[2019-12-18 19:09:18.974] [log] [info] *******
+[2019-12-18 19:09:18.974] [log] [info] computational platform: GPU CUDA
+[2019-12-18 19:09:18.975] [log] [info] CUDA device [GeForce GTX 1050 Ti with Max-Q Design] has 6 multi-processors
+[2019-12-18 19:09:18.980] [log] [info] Integrator: Verlet 1st
+[2019-12-18 19:09:18.988] [log] [info] Solver: Position-based Dynamics Gauss-Seidel
+[2019-12-18 19:09:19.024] [log] [info] Graph Info:
+[2019-12-18 19:09:19.024] [log] [info]  size: 26798, max degree: 15, min degree 4, avg degree 9.90962
+[2019-12-18 19:09:19.127] [log] [info] [30] colored: 26798 / 26798 [colors: 11]
+[2019-12-18 19:09:19.127] [log] [info] nb batches: 11
+[2019-12-18 19:09:19.127] [log] [info] 0: 3997  1: 4022  2: 4032  3: 3999  4: 3862  5: 3020  6: 2403  7: 1191  8: 252  9: 18  10: 2  
+[2019-12-18 19:09:19.274] [log] [info] Graph Info:
+[2019-12-18 19:09:19.274] [log] [info]  size: 25139, max degree: 39, min degree 7, avg degree 27.4046
+[2019-12-18 19:09:19.532] [log] [info] [37] colored: 25139 / 25139 [colors: 22]
+[2019-12-18 19:09:19.532] [log] [info] nb batches: 22
+[2019-12-18 19:09:19.532] [log] [info] 0: 1564  1: 1526  2: 1524  3: 1527  4: 1528  5: 1531  6: 1537  7: 1538  8: 1516  9: 1490  10: 1459  11: 1430  12: 1391  13: 1303  14: 1155  15: 1009  16: 896  17: 673  18: 384  19: 131  20: 25  21: 2  
+[2019-12-18 19:09:19.586] [log] [info] Collider: Self2
+[2019-12-18 19:09:19.660] [log] [info] ParticleSystem::RemoveSelfIntersectingSurfaceParticles updating gpu data structures ...
+[2019-12-18 19:09:19.661] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-18 19:09:19.661] [log] [info] Collider: Mesh Collider3
+[2019-12-18 19:09:19.680] [log] [info] initialization finished, duration: 0.706833
+[2019-12-18 19:09:36.050] [log] [info] msg:   deform   prt 100.00 glb 100.00 - time 16370.01 - fps: 0.00 avg fps: 0.01
+[2019-12-18 19:09:36.050] [log] [info] msg: 
+[2019-12-18 19:09:36.050] [log] [info] GPU CUDA
+[2019-12-18 19:09:36.050] [log] [info] iterations: 2 dt: 0.001
+[2019-12-18 19:09:36.050] [log] [info] total constraints: 51937 total particles: 9211
+[2019-12-18 19:09:36.050] [log] [info] avg_err: 0%
+[2019-12-18 19:09:36.050] [log] [info] shutting down..
+[2019-12-18 19:09:36.051] [log] [info] Integrator: Destroy
+[2019-12-18 19:09:36.051] [log] [info] solver: deallocating gpu data structures ..
+[2019-12-18 19:09:36.052] [log] [info] solver: done
+[2019-12-18 19:09:36.053] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-18 19:09:36.058] [log] [info] Collider: Self2 destroyed
+[2019-12-18 19:09:36.058] [log] [info] Collider: Mesh Collider3 destroyed
+[2019-12-18 19:09:36.261] [log] [info] vivace version number: 334
+[2019-12-18 19:09:36.261] [log] [info] setting default parameters..
+[2019-12-18 19:09:36.286] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-18 19:09:36.287] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.289] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.289] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.289] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.296] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.297] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.333] [log] [info] nb particle: 981 nb face: 1832 nb_tetra: 0 nb edges: 2812
+[2019-12-18 19:09:36.334] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.336] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.336] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.336] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.343] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.343] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.370] [log] [info] nb particle: 1665 nb face: 3144 nb_tetra: 0 nb edges: 4808
+[2019-12-18 19:09:36.371] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.372] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.372] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.372] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.378] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.379] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.381] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-18 19:09:36.382] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.382] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.382] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.382] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.385] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.385] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.387] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.388] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.403] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-18 19:09:36.403] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.404] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.404] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.404] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.408] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.408] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.412] [log] [info] nb particle: 323 nb face: 551 nb_tetra: 0 nb edges: 873
+[2019-12-18 19:09:36.412] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.413] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.413] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.413] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.416] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.417] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.420] [log] [info] nb particle: 108 nb face: 169 nb_tetra: 0 nb edges: 276
+[2019-12-18 19:09:36.421] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.421] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.421] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.421] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.424] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.424] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.427] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.427] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.431] [log] [info] nb particle: 333 nb face: 570 nb_tetra: 0 nb edges: 902
+[2019-12-18 19:09:36.432] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.432] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.432] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.432] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.435] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.436] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.438] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-18 19:09:36.438] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.439] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.439] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.439] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.442] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.442] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.445] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.446] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.470] [log] [info] nb particle: 1383 nb face: 2575 nb_tetra: 0 nb edges: 3955
+[2019-12-18 19:09:36.471] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.472] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.472] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.472] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.478] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.479] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.491] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-18 19:09:36.492] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.493] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.493] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.493] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.500] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.500] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.502] [log] [info] nb particle: 48 nb face: 61 nb_tetra: 0 nb edges: 108
+[2019-12-18 19:09:36.503] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.503] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.503] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.503] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.508] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.509] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.511] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-18 19:09:36.513] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.513] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.513] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.513] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.519] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.520] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.525] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.526] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.561] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-18 19:09:36.563] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.564] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.564] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.564] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.574] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.575] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.577] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-18 19:09:36.579] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.579] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.579] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.579] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.586] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.586] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.594] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.595] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.598] [log] [info] nb particle: 109 nb face: 171 nb_tetra: 0 nb edges: 279
+[2019-12-18 19:09:36.600] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.602] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.602] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.602] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.611] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.611] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.621] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.622] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.624] [log] [info] nb particle: 21 nb face: 24 nb_tetra: 0 nb edges: 44
+[2019-12-18 19:09:36.626] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:09:36.626] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:09:36.626] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.626] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.635] [log] [info] defining constraints' rest values
+[2019-12-18 19:09:36.636] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:09:36.645] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:36.646] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:09:38.120] [log] [info] added collider 1, duration: 1.46947
+[2019-12-18 19:09:38.934] [log] [warning] Seam 0 is not continuous, some bending constraints were not created.
+[2019-12-18 19:09:38.934] [log] [warning] Seam 1 is not continuous, some bending constraints were not created.
+[2019-12-18 19:09:38.936] [log] [info] *******
+[2019-12-18 19:09:38.936] [log] [info] vertices: 9211
+[2019-12-18 19:09:38.936] [log] [info] faces: 50349
+[2019-12-18 19:09:38.936] [log] [info] tetras: 0
+[2019-12-18 19:09:38.936] [log] [info] constraints[STRETCH]: 26798
+[2019-12-18 19:09:38.936] [log] [info] constraints[BENDING]: 25139
+[2019-12-18 19:09:38.936] [log] [info] constraints[TETRA_VOLUME]: 0
+[2019-12-18 19:09:38.936] [log] [info] *******
+[2019-12-18 19:09:38.936] [log] [info] computational platform: GPU CUDA
+[2019-12-18 19:09:38.936] [log] [info] CUDA device [GeForce GTX 1050 Ti with Max-Q Design] has 6 multi-processors
+[2019-12-18 19:09:38.941] [log] [info] Integrator: Verlet 1st
+[2019-12-18 19:09:38.951] [log] [info] Solver: Position-based Dynamics Gauss-Seidel
+[2019-12-18 19:09:39.001] [log] [info] Graph Info:
+[2019-12-18 19:09:39.001] [log] [info]  size: 26798, max degree: 15, min degree 4, avg degree 9.90962
+[2019-12-18 19:09:39.127] [log] [info] [32] colored: 26798 / 26798 [colors: 11]
+[2019-12-18 19:09:39.127] [log] [info] nb batches: 11
+[2019-12-18 19:09:39.127] [log] [info] 0: 4002  1: 4007  2: 4022  3: 3998  4: 3846  5: 3058  6: 2366  7: 1229  8: 247  9: 22  10: 1  
+[2019-12-18 19:09:39.267] [log] [info] Graph Info:
+[2019-12-18 19:09:39.267] [log] [info]  size: 25139, max degree: 39, min degree 7, avg degree 27.4046
+[2019-12-18 19:09:39.534] [log] [info] [36] colored: 25139 / 25139 [colors: 22]
+[2019-12-18 19:09:39.534] [log] [info] nb batches: 22
+[2019-12-18 19:09:39.534] [log] [info] 0: 1529  1: 1525  2: 1542  3: 1536  4: 1539  5: 1513  6: 1539  7: 1540  8: 1535  9: 1515  10: 1471  11: 1426  12: 1381  13: 1298  14: 1138  15: 1014  16: 906  17: 668  18: 375  19: 116  20: 31  21: 2  
+[2019-12-18 19:09:39.588] [log] [info] Collider: Self4
+[2019-12-18 19:09:39.662] [log] [info] ParticleSystem::RemoveSelfIntersectingSurfaceParticles updating gpu data structures ...
+[2019-12-18 19:09:39.663] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-18 19:09:39.663] [log] [info] Collider: Mesh Collider5
+[2019-12-18 19:09:39.678] [log] [info] initialization finished, duration: 0.743498
+[2019-12-18 19:09:46.395] [log] [info] msg:   deform   prt 100.00 glb 100.00 - time 6717.38 - fps: 0.00 avg fps: 0.02
+[2019-12-18 19:09:46.395] [log] [info] msg: 
+[2019-12-18 19:09:46.395] [log] [info] GPU CUDA
+[2019-12-18 19:09:46.395] [log] [info] iterations: 2 dt: 0.001
+[2019-12-18 19:09:46.395] [log] [info] total constraints: 51937 total particles: 9211
+[2019-12-18 19:09:46.395] [log] [info] avg_err: 0%
+[2019-12-18 19:09:46.395] [log] [info] shutting down..
+[2019-12-18 19:09:46.396] [log] [info] Integrator: Destroy
+[2019-12-18 19:09:46.396] [log] [info] solver: deallocating gpu data structures ..
+[2019-12-18 19:09:46.398] [log] [info] solver: done
+[2019-12-18 19:09:46.398] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-18 19:09:46.405] [log] [info] Collider: Self4 destroyed
+[2019-12-18 19:09:46.405] [log] [info] Collider: Mesh Collider5 destroyed
+[2019-12-18 19:10:48.471] [log] [info] vivace version number: 334
+[2019-12-18 19:10:48.472] [log] [info] setting default parameters..
+[2019-12-18 19:10:48.499] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-18 19:10:48.499] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:48.501] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:48.501] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:48.501] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:48.787] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:48.788] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:48.825] [log] [info] nb particle: 981 nb face: 1832 nb_tetra: 0 nb edges: 2812
+[2019-12-18 19:10:48.825] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:48.828] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:48.828] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:48.828] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:48.838] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:48.839] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:48.878] [log] [info] nb particle: 1665 nb face: 3144 nb_tetra: 0 nb edges: 4808
+[2019-12-18 19:10:48.879] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:48.880] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:48.880] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:48.881] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:48.890] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:48.890] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:48.894] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-18 19:10:48.895] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:48.895] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:48.895] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:48.895] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:48.902] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:48.902] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:48.908] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:48.909] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:48.934] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-18 19:10:48.935] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:48.936] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:48.936] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:48.937] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:48.945] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:48.946] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:48.952] [log] [info] nb particle: 323 nb face: 551 nb_tetra: 0 nb edges: 873
+[2019-12-18 19:10:48.953] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:48.954] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:48.954] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:48.954] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:48.961] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:48.962] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:48.969] [log] [info] nb particle: 108 nb face: 169 nb_tetra: 0 nb edges: 276
+[2019-12-18 19:10:48.970] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:48.971] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:48.971] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:48.971] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:48.979] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:48.979] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:48.986] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:48.987] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:48.995] [log] [info] nb particle: 333 nb face: 570 nb_tetra: 0 nb edges: 902
+[2019-12-18 19:10:48.996] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:48.997] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:48.997] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:48.997] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:49.006] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.006] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.011] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-18 19:10:49.012] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:49.013] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:49.013] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:49.013] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:49.021] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:49.021] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:49.028] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.029] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.073] [log] [info] nb particle: 1383 nb face: 2575 nb_tetra: 0 nb edges: 3955
+[2019-12-18 19:10:49.074] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:49.075] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:49.075] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:49.076] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:49.085] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.086] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.101] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-18 19:10:49.103] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:49.104] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:49.104] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:49.104] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:49.111] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.112] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.113] [log] [info] nb particle: 48 nb face: 61 nb_tetra: 0 nb edges: 108
+[2019-12-18 19:10:49.114] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:49.115] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:49.115] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:49.115] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:49.120] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.120] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.123] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-18 19:10:49.124] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:49.124] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:49.124] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:49.124] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:49.130] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:49.130] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:49.136] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.136] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.171] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-18 19:10:49.172] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:49.173] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:49.173] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:49.173] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:49.183] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.184] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.186] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-18 19:10:49.187] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:49.187] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:49.187] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:49.187] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:49.196] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:49.197] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:49.208] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.209] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.214] [log] [info] nb particle: 109 nb face: 171 nb_tetra: 0 nb edges: 279
+[2019-12-18 19:10:49.216] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:49.218] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:49.218] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:49.218] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:49.230] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:49.230] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:49.242] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.243] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.246] [log] [info] nb particle: 21 nb face: 24 nb_tetra: 0 nb edges: 44
+[2019-12-18 19:10:49.249] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:10:49.249] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:10:49.249] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:49.249] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:49.261] [log] [info] defining constraints' rest values
+[2019-12-18 19:10:49.261] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:10:49.273] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:49.275] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:10:51.057] [log] [info] added collider 1, duration: 1.76315
+[2019-12-18 19:10:51.863] [log] [warning] Seam 0 is not continuous, some bending constraints were not created.
+[2019-12-18 19:10:51.863] [log] [warning] Seam 1 is not continuous, some bending constraints were not created.
+[2019-12-18 19:10:51.864] [log] [info] *******
+[2019-12-18 19:10:51.864] [log] [info] vertices: 9211
+[2019-12-18 19:10:51.864] [log] [info] faces: 50349
+[2019-12-18 19:10:51.864] [log] [info] tetras: 0
+[2019-12-18 19:10:51.864] [log] [info] constraints[STRETCH]: 26798
+[2019-12-18 19:10:51.864] [log] [info] constraints[BENDING]: 25139
+[2019-12-18 19:10:51.864] [log] [info] constraints[TETRA_VOLUME]: 0
+[2019-12-18 19:10:51.864] [log] [info] *******
+[2019-12-18 19:10:51.864] [log] [info] computational platform: GPU CUDA
+[2019-12-18 19:10:51.865] [log] [info] CUDA device [GeForce GTX 1050 Ti with Max-Q Design] has 6 multi-processors
+[2019-12-18 19:10:51.870] [log] [info] Integrator: Verlet 1st
+[2019-12-18 19:10:51.877] [log] [info] Solver: Position-based Dynamics Gauss-Seidel
+[2019-12-18 19:10:51.916] [log] [info] Graph Info:
+[2019-12-18 19:10:51.916] [log] [info]  size: 26798, max degree: 15, min degree 4, avg degree 9.90962
+[2019-12-18 19:10:52.021] [log] [info] [36] colored: 26798 / 26798 [colors: 11]
+[2019-12-18 19:10:52.021] [log] [info] nb batches: 11
+[2019-12-18 19:10:52.021] [log] [info] 0: 4014  1: 4031  2: 4007  3: 4005  4: 3838  5: 3049  6: 2403  7: 1167  8: 262  9: 21  10: 1  
+[2019-12-18 19:10:52.163] [log] [info] Graph Info:
+[2019-12-18 19:10:52.163] [log] [info]  size: 25139, max degree: 39, min degree 7, avg degree 27.4046
+[2019-12-18 19:10:52.456] [log] [info] [44] colored: 25139 / 25139 [colors: 23]
+[2019-12-18 19:10:52.456] [log] [info] nb batches: 23
+[2019-12-18 19:10:52.456] [log] [info] 0: 1560  1: 1535  2: 1529  3: 1543  4: 1516  5: 1529  6: 1526  7: 1510  8: 1550  9: 1507  10: 1448  11: 1438  12: 1380  13: 1305  14: 1132  15: 1028  16: 922  17: 682  18: 356  19: 112  20: 27  21: 3  22: 1  
+[2019-12-18 19:10:52.508] [log] [info] Collider: Self6
+[2019-12-18 19:10:52.583] [log] [info] ParticleSystem::RemoveSelfIntersectingSurfaceParticles updating gpu data structures ...
+[2019-12-18 19:10:52.584] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-18 19:10:52.584] [log] [info] Collider: Mesh Collider7
+[2019-12-18 19:10:52.602] [log] [info] initialization finished, duration: 0.739266
+[2019-12-18 19:11:21.279] [log] [info] msg:   deform   prt 100.00 glb 100.00 - time 28676.69 - fps: 0.00 avg fps: 0.01
+[2019-12-18 19:11:21.279] [log] [info] msg: 
+[2019-12-18 19:11:21.279] [log] [info] GPU CUDA
+[2019-12-18 19:11:21.279] [log] [info] iterations: 2 dt: 0.001
+[2019-12-18 19:11:21.279] [log] [info] total constraints: 51937 total particles: 9211
+[2019-12-18 19:11:21.279] [log] [info] avg_err: 0%
+[2019-12-18 19:11:21.279] [log] [info] shutting down..
+[2019-12-18 19:11:21.280] [log] [info] Integrator: Destroy
+[2019-12-18 19:11:21.280] [log] [info] solver: deallocating gpu data structures ..
+[2019-12-18 19:11:21.281] [log] [info] solver: done
+[2019-12-18 19:11:21.282] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-18 19:11:21.290] [log] [info] Collider: Self6 destroyed
+[2019-12-18 19:11:21.290] [log] [info] Collider: Mesh Collider7 destroyed
+[2019-12-18 19:11:21.478] [log] [info] vivace version number: 334
+[2019-12-18 19:11:21.478] [log] [info] setting default parameters..
+[2019-12-18 19:11:21.502] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-18 19:11:21.502] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.504] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.504] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.505] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.513] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.513] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.548] [log] [info] nb particle: 981 nb face: 1832 nb_tetra: 0 nb edges: 2812
+[2019-12-18 19:11:21.549] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.550] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.550] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.551] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.556] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.557] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.581] [log] [info] nb particle: 1665 nb face: 3144 nb_tetra: 0 nb edges: 4808
+[2019-12-18 19:11:21.582] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.583] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.583] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.583] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.589] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.590] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.592] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-18 19:11:21.592] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.592] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.593] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.593] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.595] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.595] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.598] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.598] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.612] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-18 19:11:21.613] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.614] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.614] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.614] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.618] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.619] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.623] [log] [info] nb particle: 323 nb face: 551 nb_tetra: 0 nb edges: 873
+[2019-12-18 19:11:21.623] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.624] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.624] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.624] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.628] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.628] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.632] [log] [info] nb particle: 108 nb face: 169 nb_tetra: 0 nb edges: 276
+[2019-12-18 19:11:21.633] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.634] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.634] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.634] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.638] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.638] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.642] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.642] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.646] [log] [info] nb particle: 333 nb face: 570 nb_tetra: 0 nb edges: 902
+[2019-12-18 19:11:21.647] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.647] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.647] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.647] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.652] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.652] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.654] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-18 19:11:21.655] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.656] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.656] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.656] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.660] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.660] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.664] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.665] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.692] [log] [info] nb particle: 1383 nb face: 2575 nb_tetra: 0 nb edges: 3955
+[2019-12-18 19:11:21.693] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.694] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.694] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.694] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.703] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.703] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.721] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-18 19:11:21.722] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.723] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.723] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.724] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.733] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.734] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.736] [log] [info] nb particle: 48 nb face: 61 nb_tetra: 0 nb edges: 108
+[2019-12-18 19:11:21.737] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.738] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.738] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.738] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.744] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.745] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.747] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-18 19:11:21.748] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.749] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.749] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.749] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.754] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.754] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.757] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.758] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.785] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-18 19:11:21.786] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.787] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.787] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.787] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.794] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.794] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.796] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-18 19:11:21.797] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.797] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.797] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.797] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.802] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.802] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.807] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.808] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.810] [log] [info] nb particle: 109 nb face: 171 nb_tetra: 0 nb edges: 279
+[2019-12-18 19:11:21.811] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.812] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.812] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.812] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.817] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.817] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.823] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.823] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.824] [log] [info] nb particle: 21 nb face: 24 nb_tetra: 0 nb edges: 44
+[2019-12-18 19:11:21.825] [log] [info] defining stretch and bending constraints ...
+[2019-12-18 19:11:21.826] [log] [info] defining tetrahedral constraints ...
+[2019-12-18 19:11:21.826] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.826] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.830] [log] [info] defining constraints' rest values
+[2019-12-18 19:11:21.830] [log] [info] ParticleSystemCuda::Reload
+[2019-12-18 19:11:21.836] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:21.836] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-18 19:11:22.692] [log] [info] added collider 1, duration: 0.853653
+[2019-12-18 19:11:23.548] [log] [warning] Seam 0 is not continuous, some bending constraints were not created.
+[2019-12-18 19:11:23.548] [log] [warning] Seam 1 is not continuous, some bending constraints were not created.
+[2019-12-18 19:11:23.550] [log] [info] *******
+[2019-12-18 19:11:23.550] [log] [info] vertices: 9211
+[2019-12-18 19:11:23.550] [log] [info] faces: 50349
+[2019-12-18 19:11:23.550] [log] [info] tetras: 0
+[2019-12-18 19:11:23.550] [log] [info] constraints[STRETCH]: 26798
+[2019-12-18 19:11:23.550] [log] [info] constraints[BENDING]: 25139
+[2019-12-18 19:11:23.550] [log] [info] constraints[TETRA_VOLUME]: 0
+[2019-12-18 19:11:23.550] [log] [info] *******
+[2019-12-18 19:11:23.550] [log] [info] computational platform: GPU CUDA
+[2019-12-18 19:11:23.550] [log] [info] CUDA device [GeForce GTX 1050 Ti with Max-Q Design] has 6 multi-processors
+[2019-12-18 19:11:23.556] [log] [info] Integrator: Verlet 1st
+[2019-12-18 19:11:23.563] [log] [info] Solver: Position-based Dynamics Gauss-Seidel
+[2019-12-18 19:11:23.625] [log] [info] Graph Info:
+[2019-12-18 19:11:23.625] [log] [info]  size: 26798, max degree: 15, min degree 4, avg degree 9.90962
+[2019-12-18 19:11:23.749] [log] [info] [29] colored: 26798 / 26798 [colors: 10]
+[2019-12-18 19:11:23.749] [log] [info] nb batches: 10
+[2019-12-18 19:11:23.749] [log] [info] 0: 4011  1: 4009  2: 4028  3: 4025  4: 3850  5: 3027  6: 2394  7: 1208  8: 236  9: 10  
+[2019-12-18 19:11:23.886] [log] [info] Graph Info:
+[2019-12-18 19:11:23.886] [log] [info]  size: 25139, max degree: 39, min degree 7, avg degree 27.4046
+[2019-12-18 19:11:24.153] [log] [info] [40] colored: 25139 / 25139 [colors: 22]
+[2019-12-18 19:11:24.153] [log] [info] nb batches: 22
+[2019-12-18 19:11:24.153] [log] [info] 0: 1548  1: 1527  2: 1513  3: 1550  4: 1527  5: 1526  6: 1539  7: 1535  8: 1536  9: 1514  10: 1460  11: 1433  12: 1382  13: 1286  14: 1150  15: 1017  16: 909  17: 674  18: 354  19: 131  20: 24  21: 4  
+[2019-12-18 19:11:24.225] [log] [info] Collider: Self8
+[2019-12-18 19:11:24.333] [log] [info] ParticleSystem::RemoveSelfIntersectingSurfaceParticles updating gpu data structures ...
+[2019-12-18 19:11:24.333] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-18 19:11:24.334] [log] [info] Collider: Mesh Collider9
+[2019-12-18 19:11:24.348] [log] [info] initialization finished, duration: 0.79963
+[2019-12-18 19:11:31.049] [log] [info] msg:   deform   prt 100.00 glb 100.00 - time 6700.93 - fps: 0.00 avg fps: 0.02
+[2019-12-18 19:11:31.049] [log] [info] msg: 
+[2019-12-18 19:11:31.049] [log] [info] GPU CUDA
+[2019-12-18 19:11:31.049] [log] [info] iterations: 2 dt: 0.001
+[2019-12-18 19:11:31.049] [log] [info] total constraints: 51937 total particles: 9211
+[2019-12-18 19:11:31.049] [log] [info] avg_err: 0%
+[2019-12-18 19:11:31.049] [log] [info] shutting down..
+[2019-12-18 19:11:31.050] [log] [info] Integrator: Destroy
+[2019-12-18 19:11:31.050] [log] [info] solver: deallocating gpu data structures ..
+[2019-12-18 19:11:31.051] [log] [info] solver: done
+[2019-12-18 19:11:31.052] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-18 19:11:31.072] [log] [info] Collider: Self8 destroyed
+[2019-12-18 19:11:31.072] [log] [info] Collider: Mesh Collider9 destroyed
+[2019-12-19 02:47:21.508] [log] [info] vivace version number: 334
+[2019-12-19 02:47:21.511] [log] [info] setting default parameters..
+[2019-12-19 02:47:21.529] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-19 02:47:21.529] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:21.530] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:21.530] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:21.530] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:21.842] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.842] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.859] [log] [info] nb particle: 981 nb face: 1832 nb_tetra: 0 nb edges: 2812
+[2019-12-19 02:47:21.860] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:21.860] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:21.860] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:21.860] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:21.865] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.865] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.884] [log] [info] nb particle: 1665 nb face: 3144 nb_tetra: 0 nb edges: 4808
+[2019-12-19 02:47:21.884] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:21.886] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:21.886] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:21.886] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:21.891] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.891] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.894] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-19 02:47:21.894] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:21.894] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:21.894] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:21.894] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:21.897] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:21.897] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:21.899] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.899] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.912] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-19 02:47:21.913] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:21.913] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:21.913] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:21.913] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:21.917] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.917] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.920] [log] [info] nb particle: 323 nb face: 551 nb_tetra: 0 nb edges: 873
+[2019-12-19 02:47:21.921] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:21.921] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:21.921] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:21.921] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:21.924] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.924] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.929] [log] [info] nb particle: 108 nb face: 169 nb_tetra: 0 nb edges: 276
+[2019-12-19 02:47:21.930] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:21.930] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:21.930] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:21.930] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:21.937] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:21.937] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:21.941] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.941] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.944] [log] [info] nb particle: 333 nb face: 570 nb_tetra: 0 nb edges: 902
+[2019-12-19 02:47:21.945] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:21.945] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:21.945] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:21.945] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:21.948] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.949] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.950] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-19 02:47:21.951] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:21.951] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:21.951] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:21.951] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:21.954] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:21.954] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:21.957] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.957] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.978] [log] [info] nb particle: 1383 nb face: 2575 nb_tetra: 0 nb edges: 3955
+[2019-12-19 02:47:21.979] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:21.982] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:21.982] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:21.982] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:21.988] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.989] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:21.999] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-19 02:47:22.000] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:22.001] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:22.001] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:22.001] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:22.006] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:22.007] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:22.008] [log] [info] nb particle: 48 nb face: 61 nb_tetra: 0 nb edges: 108
+[2019-12-19 02:47:22.009] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:22.009] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:22.009] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:22.009] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:22.013] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:22.013] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:22.015] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-19 02:47:22.016] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:22.016] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:22.016] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:22.016] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:22.023] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:22.023] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:22.026] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:22.027] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:22.053] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-19 02:47:22.054] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:22.055] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:22.055] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:22.055] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:22.061] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:22.061] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:22.062] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-19 02:47:22.063] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:22.063] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:22.063] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:22.063] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:22.066] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:22.066] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:22.070] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:22.070] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:22.072] [log] [info] nb particle: 109 nb face: 171 nb_tetra: 0 nb edges: 279
+[2019-12-19 02:47:22.073] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:22.073] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:22.073] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:22.073] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:22.077] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:22.077] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:22.080] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:22.081] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:22.082] [log] [info] nb particle: 21 nb face: 24 nb_tetra: 0 nb edges: 44
+[2019-12-19 02:47:22.083] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:47:22.083] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:47:22.083] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:22.083] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:22.086] [log] [info] defining constraints' rest values
+[2019-12-19 02:47:22.086] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:47:22.090] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:22.090] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:47:22.720] [log] [info] added collider 1, duration: 0.622904
+[2019-12-19 02:47:23.349] [log] [warning] Seam 0 is not continuous, some bending constraints were not created.
+[2019-12-19 02:47:23.349] [log] [warning] Seam 1 is not continuous, some bending constraints were not created.
+[2019-12-19 02:47:23.350] [log] [info] *******
+[2019-12-19 02:47:23.350] [log] [info] vertices: 9211
+[2019-12-19 02:47:23.350] [log] [info] faces: 50349
+[2019-12-19 02:47:23.350] [log] [info] tetras: 0
+[2019-12-19 02:47:23.350] [log] [info] constraints[STRETCH]: 26798
+[2019-12-19 02:47:23.350] [log] [info] constraints[BENDING]: 25139
+[2019-12-19 02:47:23.350] [log] [info] constraints[TETRA_VOLUME]: 0
+[2019-12-19 02:47:23.350] [log] [info] *******
+[2019-12-19 02:47:23.351] [log] [info] computational platform: GPU CUDA
+[2019-12-19 02:47:23.355] [log] [info] CUDA device [GeForce GTX 1050 Ti with Max-Q Design] has 6 multi-processors
+[2019-12-19 02:47:23.359] [log] [info] Integrator: Verlet 1st
+[2019-12-19 02:47:23.715] [log] [info] Validated
+[2019-12-19 02:47:23.718] [log] [info] Solver: Position-based Dynamics Gauss-Seidel
+[2019-12-19 02:47:23.784] [log] [info] Graph Info:
+[2019-12-19 02:47:23.785] [log] [info]  size: 26798, max degree: 15, min degree 4, avg degree 9.90962
+[2019-12-19 02:47:23.865] [log] [info] [35] colored: 26798 / 26798 [colors: 11]
+[2019-12-19 02:47:23.866] [log] [info] nb batches: 11
+[2019-12-19 02:47:23.866] [log] [info] 0: 4006  1: 4009  2: 4014  3: 4008  4: 3880  5: 3055  6: 2365  7: 1192  8: 252  9: 16  10: 1  
+[2019-12-19 02:47:23.973] [log] [info] Graph Info:
+[2019-12-19 02:47:23.973] [log] [info]  size: 25139, max degree: 39, min degree 7, avg degree 27.4046
+[2019-12-19 02:47:24.165] [log] [info] [36] colored: 25139 / 25139 [colors: 22]
+[2019-12-19 02:47:24.165] [log] [info] nb batches: 22
+[2019-12-19 02:47:24.165] [log] [info] 0: 1527  1: 1540  2: 1535  3: 1551  4: 1548  5: 1547  6: 1520  7: 1537  8: 1498  9: 1497  10: 1475  11: 1421  12: 1390  13: 1300  14: 1141  15: 1007  16: 919  17: 672  18: 364  19: 126  20: 23  21: 1  
+[2019-12-19 02:47:24.202] [log] [info] Collider: Self10
+[2019-12-19 02:47:24.260] [log] [info] ParticleSystem::RemoveSelfIntersectingSurfaceParticles updating gpu data structures ...
+[2019-12-19 02:47:24.261] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-19 02:47:24.264] [log] [info] Collider: Mesh Collider11
+[2019-12-19 02:47:24.279] [log] [info] initialization finished, duration: 0.930063
+[2019-12-19 02:47:37.134] [log] [info] msg:   deform   prt 100.00 glb 100.00 - time 12853.97 - fps: 0.00 avg fps: 0.02
+[2019-12-19 02:47:37.134] [log] [info] msg: 
+[2019-12-19 02:47:37.134] [log] [info] GPU CUDA
+[2019-12-19 02:47:37.134] [log] [info] iterations: 2 dt: 0.001
+[2019-12-19 02:47:37.134] [log] [info] total constraints: 51937 total particles: 9211
+[2019-12-19 02:47:37.134] [log] [info] avg_err: 0%
+[2019-12-19 02:47:37.135] [log] [info] shutting down..
+[2019-12-19 02:47:37.135] [log] [info] Integrator: Destroy
+[2019-12-19 02:47:37.135] [log] [info] solver: deallocating gpu data structures ..
+[2019-12-19 02:47:37.136] [log] [info] solver: done
+[2019-12-19 02:47:37.136] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-19 02:47:37.139] [log] [info] Collider: Self10 destroyed
+[2019-12-19 02:47:37.139] [log] [info] Collider: Mesh Collider11 destroyed
+[2019-12-19 02:48:39.104] [log] [info] vivace version number: 334
+[2019-12-19 02:48:39.104] [log] [info] setting default parameters..
+[2019-12-19 02:48:39.113] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-19 02:48:39.114] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.114] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.114] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.114] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.370] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.371] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.382] [log] [info] nb particle: 981 nb face: 1832 nb_tetra: 0 nb edges: 2812
+[2019-12-19 02:48:39.382] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.383] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.383] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.383] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.386] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.386] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.403] [log] [info] nb particle: 1665 nb face: 3144 nb_tetra: 0 nb edges: 4808
+[2019-12-19 02:48:39.403] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.404] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.404] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.404] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.409] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.410] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.411] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-19 02:48:39.412] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.412] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.412] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.412] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.415] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.415] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.417] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.417] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.429] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-19 02:48:39.429] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.430] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.430] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.430] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.433] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.434] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.437] [log] [info] nb particle: 323 nb face: 551 nb_tetra: 0 nb edges: 873
+[2019-12-19 02:48:39.437] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.438] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.438] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.438] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.440] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.440] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.443] [log] [info] nb particle: 108 nb face: 169 nb_tetra: 0 nb edges: 276
+[2019-12-19 02:48:39.444] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.444] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.444] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.444] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.446] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.446] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.448] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.448] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.451] [log] [info] nb particle: 333 nb face: 570 nb_tetra: 0 nb edges: 902
+[2019-12-19 02:48:39.452] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.452] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.452] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.452] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.455] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.455] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.457] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-19 02:48:39.457] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.458] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.458] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.458] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.461] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.461] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.463] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.463] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.482] [log] [info] nb particle: 1383 nb face: 2575 nb_tetra: 0 nb edges: 3955
+[2019-12-19 02:48:39.483] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.484] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.484] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.484] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.490] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.490] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.500] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-19 02:48:39.501] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.502] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.502] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.502] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.508] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.508] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.509] [log] [info] nb particle: 48 nb face: 61 nb_tetra: 0 nb edges: 108
+[2019-12-19 02:48:39.510] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.510] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.510] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.510] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.514] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.515] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.516] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-19 02:48:39.518] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.518] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.518] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.518] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.522] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.522] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.527] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.527] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.548] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-19 02:48:39.549] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.550] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.550] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.550] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.556] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.556] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.557] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-19 02:48:39.558] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.558] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.558] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.558] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.562] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.562] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.565] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.566] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.567] [log] [info] nb particle: 109 nb face: 171 nb_tetra: 0 nb edges: 279
+[2019-12-19 02:48:39.568] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.569] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.569] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.569] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.572] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.572] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.576] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.576] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.577] [log] [info] nb particle: 21 nb face: 24 nb_tetra: 0 nb edges: 44
+[2019-12-19 02:48:39.578] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:48:39.578] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:48:39.578] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.578] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.582] [log] [info] defining constraints' rest values
+[2019-12-19 02:48:39.582] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:48:39.586] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:39.587] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:48:40.204] [log] [info] added collider 1, duration: 0.611437
+[2019-12-19 02:48:40.826] [log] [warning] Seam 0 is not continuous, some bending constraints were not created.
+[2019-12-19 02:48:40.826] [log] [warning] Seam 1 is not continuous, some bending constraints were not created.
+[2019-12-19 02:48:40.827] [log] [info] *******
+[2019-12-19 02:48:40.827] [log] [info] vertices: 9211
+[2019-12-19 02:48:40.827] [log] [info] faces: 50349
+[2019-12-19 02:48:40.827] [log] [info] tetras: 0
+[2019-12-19 02:48:40.827] [log] [info] constraints[STRETCH]: 26798
+[2019-12-19 02:48:40.827] [log] [info] constraints[BENDING]: 25139
+[2019-12-19 02:48:40.827] [log] [info] constraints[TETRA_VOLUME]: 0
+[2019-12-19 02:48:40.827] [log] [info] *******
+[2019-12-19 02:48:40.827] [log] [info] computational platform: GPU CUDA
+[2019-12-19 02:48:40.828] [log] [info] CUDA device [GeForce GTX 1050 Ti with Max-Q Design] has 6 multi-processors
+[2019-12-19 02:48:40.832] [log] [info] Integrator: Verlet 1st
+[2019-12-19 02:48:41.200] [log] [info] Validated
+[2019-12-19 02:48:41.201] [log] [info] Solver: Position-based Dynamics Gauss-Seidel
+[2019-12-19 02:48:41.228] [log] [info] Graph Info:
+[2019-12-19 02:48:41.228] [log] [info]  size: 26798, max degree: 15, min degree 4, avg degree 9.90962
+[2019-12-19 02:48:41.307] [log] [info] [31] colored: 26798 / 26798 [colors: 10]
+[2019-12-19 02:48:41.307] [log] [info] nb batches: 10
+[2019-12-19 02:48:41.307] [log] [info] 0: 4013  1: 4012  2: 3996  3: 3984  4: 3832  5: 3081  6: 2393  7: 1213  8: 257  9: 17  
+[2019-12-19 02:48:41.411] [log] [info] Graph Info:
+[2019-12-19 02:48:41.411] [log] [info]  size: 25139, max degree: 39, min degree 7, avg degree 27.4046
+[2019-12-19 02:48:41.600] [log] [info] [36] colored: 25139 / 25139 [colors: 22]
+[2019-12-19 02:48:41.600] [log] [info] nb batches: 22
+[2019-12-19 02:48:41.600] [log] [info] 0: 1518  1: 1525  2: 1530  3: 1546  4: 1561  5: 1543  6: 1536  7: 1545  8: 1510  9: 1494  10: 1464  11: 1434  12: 1384  13: 1320  14: 1144  15: 1005  16: 914  17: 672  18: 364  19: 108  20: 20  21: 2  
+[2019-12-19 02:48:41.635] [log] [info] Collider: Self12
+[2019-12-19 02:48:41.691] [log] [info] ParticleSystem::RemoveSelfIntersectingSurfaceParticles updating gpu data structures ...
+[2019-12-19 02:48:41.691] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-19 02:48:41.692] [log] [info] Collider: Mesh Collider13
+[2019-12-19 02:48:41.707] [log] [info] initialization finished, duration: 0.881216
+[2019-12-19 02:49:02.340] [log] [info] msg:   deform   prt 100.00 glb 100.00 - time 20632.90 - fps: 0.00 avg fps: 0.02
+[2019-12-19 02:49:02.340] [log] [info] msg: 
+[2019-12-19 02:49:02.340] [log] [info] GPU CUDA
+[2019-12-19 02:49:02.340] [log] [info] iterations: 2 dt: 0.001
+[2019-12-19 02:49:02.340] [log] [info] total constraints: 51937 total particles: 9211
+[2019-12-19 02:49:02.340] [log] [info] avg_err: 0%
+[2019-12-19 02:49:02.340] [log] [info] shutting down..
+[2019-12-19 02:49:02.341] [log] [info] Integrator: Destroy
+[2019-12-19 02:49:02.341] [log] [info] solver: deallocating gpu data structures ..
+[2019-12-19 02:49:02.342] [log] [info] solver: done
+[2019-12-19 02:49:02.342] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-19 02:49:02.348] [log] [info] Collider: Self12 destroyed
+[2019-12-19 02:49:02.348] [log] [info] Collider: Mesh Collider13 destroyed
+[2019-12-19 02:49:02.451] [log] [info] vivace version number: 334
+[2019-12-19 02:49:02.451] [log] [info] setting default parameters..
+[2019-12-19 02:49:02.466] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-19 02:49:02.467] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.467] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.467] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.467] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.470] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.470] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.482] [log] [info] nb particle: 981 nb face: 1832 nb_tetra: 0 nb edges: 2812
+[2019-12-19 02:49:02.482] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.483] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.483] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.483] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.486] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.487] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.504] [log] [info] nb particle: 1665 nb face: 3144 nb_tetra: 0 nb edges: 4808
+[2019-12-19 02:49:02.504] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.505] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.505] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.505] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.510] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.511] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.513] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-19 02:49:02.513] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.513] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.513] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.513] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.515] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.515] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.517] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.517] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.529] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-19 02:49:02.529] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.530] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.530] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.530] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.534] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.534] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.537] [log] [info] nb particle: 323 nb face: 551 nb_tetra: 0 nb edges: 873
+[2019-12-19 02:49:02.537] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.538] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.538] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.538] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.540] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.540] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.543] [log] [info] nb particle: 108 nb face: 169 nb_tetra: 0 nb edges: 276
+[2019-12-19 02:49:02.543] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.544] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.544] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.544] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.546] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.546] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.549] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.549] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.552] [log] [info] nb particle: 333 nb face: 570 nb_tetra: 0 nb edges: 902
+[2019-12-19 02:49:02.552] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.553] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.553] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.553] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.555] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.556] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.557] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-19 02:49:02.558] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.558] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.558] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.558] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.561] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.561] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.563] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.563] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.582] [log] [info] nb particle: 1383 nb face: 2575 nb_tetra: 0 nb edges: 3955
+[2019-12-19 02:49:02.583] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.584] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.584] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.584] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.589] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.590] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.600] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-19 02:49:02.601] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.601] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.601] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.601] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.608] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.608] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.609] [log] [info] nb particle: 48 nb face: 61 nb_tetra: 0 nb edges: 108
+[2019-12-19 02:49:02.610] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.610] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.610] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.610] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.614] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.614] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.616] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-19 02:49:02.617] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.618] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.618] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.618] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.621] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.621] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.625] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.626] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.647] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-19 02:49:02.648] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.649] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.649] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.649] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.655] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.655] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.656] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-19 02:49:02.657] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.657] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.657] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.657] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.661] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.661] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.664] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.665] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.666] [log] [info] nb particle: 109 nb face: 171 nb_tetra: 0 nb edges: 279
+[2019-12-19 02:49:02.667] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.668] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.668] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.668] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.672] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.672] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.675] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.676] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.677] [log] [info] nb particle: 21 nb face: 24 nb_tetra: 0 nb edges: 44
+[2019-12-19 02:49:02.678] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:02.678] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:02.678] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.678] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.681] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:02.681] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:02.685] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:02.685] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:03.396] [log] [info] added collider 1, duration: 0.709113
+[2019-12-19 02:49:04.018] [log] [warning] Seam 0 is not continuous, some bending constraints were not created.
+[2019-12-19 02:49:04.018] [log] [warning] Seam 1 is not continuous, some bending constraints were not created.
+[2019-12-19 02:49:04.020] [log] [info] *******
+[2019-12-19 02:49:04.020] [log] [info] vertices: 9211
+[2019-12-19 02:49:04.020] [log] [info] faces: 50349
+[2019-12-19 02:49:04.020] [log] [info] tetras: 0
+[2019-12-19 02:49:04.020] [log] [info] constraints[STRETCH]: 26798
+[2019-12-19 02:49:04.020] [log] [info] constraints[BENDING]: 25139
+[2019-12-19 02:49:04.020] [log] [info] constraints[TETRA_VOLUME]: 0
+[2019-12-19 02:49:04.020] [log] [info] *******
+[2019-12-19 02:49:04.020] [log] [info] computational platform: GPU CUDA
+[2019-12-19 02:49:04.020] [log] [info] CUDA device [GeForce GTX 1050 Ti with Max-Q Design] has 6 multi-processors
+[2019-12-19 02:49:04.024] [log] [info] Integrator: Verlet 1st
+[2019-12-19 02:49:04.248] [log] [info] Validated
+[2019-12-19 02:49:04.249] [log] [info] Solver: Position-based Dynamics Gauss-Seidel
+[2019-12-19 02:49:04.275] [log] [info] Graph Info:
+[2019-12-19 02:49:04.275] [log] [info]  size: 26798, max degree: 15, min degree 4, avg degree 9.90962
+[2019-12-19 02:49:04.353] [log] [info] [28] colored: 26798 / 26798 [colors: 11]
+[2019-12-19 02:49:04.353] [log] [info] nb batches: 11
+[2019-12-19 02:49:04.353] [log] [info] 0: 3989  1: 4012  2: 4013  3: 4018  4: 3864  5: 3056  6: 2411  7: 1180  8: 237  9: 17  10: 1  
+[2019-12-19 02:49:04.463] [log] [info] Graph Info:
+[2019-12-19 02:49:04.463] [log] [info]  size: 25139, max degree: 39, min degree 7, avg degree 27.4046
+[2019-12-19 02:49:04.651] [log] [info] [34] colored: 25139 / 25139 [colors: 23]
+[2019-12-19 02:49:04.651] [log] [info] nb batches: 23
+[2019-12-19 02:49:04.651] [log] [info] 0: 1524  1: 1527  2: 1524  3: 1526  4: 1547  5: 1558  6: 1545  7: 1538  8: 1501  9: 1501  10: 1470  11: 1388  12: 1396  13: 1300  14: 1158  15: 1003  16: 908  17: 696  18: 369  19: 133  20: 21  21: 5  22: 1  
+[2019-12-19 02:49:04.688] [log] [info] Collider: Self14
+[2019-12-19 02:49:04.746] [log] [info] ParticleSystem::RemoveSelfIntersectingSurfaceParticles updating gpu data structures ...
+[2019-12-19 02:49:04.746] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-19 02:49:04.746] [log] [info] Collider: Mesh Collider15
+[2019-12-19 02:49:04.762] [log] [info] initialization finished, duration: 0.743878
+[2019-12-19 02:49:09.890] [log] [info] msg:   deform   prt 100.00 glb 100.00 - time 5127.42 - fps: 0.00 avg fps: 0.02
+[2019-12-19 02:49:09.890] [log] [info] msg: 
+[2019-12-19 02:49:09.890] [log] [info] GPU CUDA
+[2019-12-19 02:49:09.890] [log] [info] iterations: 2 dt: 0.001
+[2019-12-19 02:49:09.890] [log] [info] total constraints: 51937 total particles: 9211
+[2019-12-19 02:49:09.890] [log] [info] avg_err: 0%
+[2019-12-19 02:49:09.890] [log] [info] shutting down..
+[2019-12-19 02:49:09.891] [log] [info] Integrator: Destroy
+[2019-12-19 02:49:09.891] [log] [info] solver: deallocating gpu data structures ..
+[2019-12-19 02:49:09.892] [log] [info] solver: done
+[2019-12-19 02:49:09.893] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-19 02:49:09.895] [log] [info] Collider: Self14 destroyed
+[2019-12-19 02:49:09.896] [log] [info] Collider: Mesh Collider15 destroyed
+[2019-12-19 02:49:09.976] [log] [info] vivace version number: 334
+[2019-12-19 02:49:09.976] [log] [info] setting default parameters..
+[2019-12-19 02:49:09.985] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-19 02:49:09.985] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:09.986] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:09.986] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:09.986] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:09.989] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:09.989] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.001] [log] [info] nb particle: 981 nb face: 1832 nb_tetra: 0 nb edges: 2812
+[2019-12-19 02:49:10.001] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.002] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.002] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.002] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.005] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.006] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.023] [log] [info] nb particle: 1665 nb face: 3144 nb_tetra: 0 nb edges: 4808
+[2019-12-19 02:49:10.024] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.025] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.025] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.025] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.030] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.030] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.032] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-19 02:49:10.033] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.033] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.033] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.033] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.035] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.035] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.037] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.037] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.050] [log] [info] nb particle: 833 nb face: 1521 nb_tetra: 0 nb edges: 2353
+[2019-12-19 02:49:10.050] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.051] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.051] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.051] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.055] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.055] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.058] [log] [info] nb particle: 323 nb face: 551 nb_tetra: 0 nb edges: 873
+[2019-12-19 02:49:10.059] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.059] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.059] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.060] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.062] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.063] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.066] [log] [info] nb particle: 108 nb face: 169 nb_tetra: 0 nb edges: 276
+[2019-12-19 02:49:10.066] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.067] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.067] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.067] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.069] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.069] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.072] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.072] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.075] [log] [info] nb particle: 333 nb face: 570 nb_tetra: 0 nb edges: 902
+[2019-12-19 02:49:10.076] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.076] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.076] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.076] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.079] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.079] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.081] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-19 02:49:10.082] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.082] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.082] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.082] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.085] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.085] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.087] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.088] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.111] [log] [info] nb particle: 1383 nb face: 2575 nb_tetra: 0 nb edges: 3955
+[2019-12-19 02:49:10.112] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.113] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.113] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.113] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.119] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.119] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.131] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-19 02:49:10.132] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.133] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.133] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.133] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.139] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.140] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.141] [log] [info] nb particle: 48 nb face: 61 nb_tetra: 0 nb edges: 108
+[2019-12-19 02:49:10.142] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.143] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.143] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.143] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.147] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.147] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.149] [log] [info] nb particle: 150 nb face: 250 nb_tetra: 0 nb edges: 399
+[2019-12-19 02:49:10.150] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.150] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.150] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.150] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.154] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.154] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.158] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.159] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.179] [log] [info] nb particle: 1110 nb face: 2041 nb_tetra: 0 nb edges: 3150
+[2019-12-19 02:49:10.181] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.182] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.182] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.182] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.188] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.188] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.189] [log] [info] nb particle: 27 nb face: 31 nb_tetra: 0 nb edges: 57
+[2019-12-19 02:49:10.190] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.190] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.190] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.190] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.194] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.194] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.198] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.198] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.200] [log] [info] nb particle: 109 nb face: 171 nb_tetra: 0 nb edges: 279
+[2019-12-19 02:49:10.201] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.201] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.201] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.201] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.206] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.206] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.209] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.210] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.211] [log] [info] nb particle: 21 nb face: 24 nb_tetra: 0 nb edges: 44
+[2019-12-19 02:49:10.212] [log] [info] defining stretch and bending constraints ...
+[2019-12-19 02:49:10.212] [log] [info] defining tetrahedral constraints ...
+[2019-12-19 02:49:10.212] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.212] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.215] [log] [info] defining constraints' rest values
+[2019-12-19 02:49:10.216] [log] [info] ParticleSystemCuda::Reload
+[2019-12-19 02:49:10.219] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.220] [log] [info] ParticleSystemCuda::ReloadPos
+[2019-12-19 02:49:10.956] [log] [info] added collider 1, duration: 0.734749
+[2019-12-19 02:49:11.580] [log] [warning] Seam 0 is not continuous, some bending constraints were not created.
+[2019-12-19 02:49:11.580] [log] [warning] Seam 1 is not continuous, some bending constraints were not created.
+[2019-12-19 02:49:11.581] [log] [info] *******
+[2019-12-19 02:49:11.581] [log] [info] vertices: 9211
+[2019-12-19 02:49:11.581] [log] [info] faces: 50349
+[2019-12-19 02:49:11.581] [log] [info] tetras: 0
+[2019-12-19 02:49:11.581] [log] [info] constraints[STRETCH]: 26798
+[2019-12-19 02:49:11.581] [log] [info] constraints[BENDING]: 25139
+[2019-12-19 02:49:11.581] [log] [info] constraints[TETRA_VOLUME]: 0
+[2019-12-19 02:49:11.581] [log] [info] *******
+[2019-12-19 02:49:11.581] [log] [info] computational platform: GPU CUDA
+[2019-12-19 02:49:11.582] [log] [info] CUDA device [GeForce GTX 1050 Ti with Max-Q Design] has 6 multi-processors
+[2019-12-19 02:49:11.585] [log] [info] Integrator: Verlet 1st
+[2019-12-19 02:49:11.838] [log] [info] Validated
+[2019-12-19 02:49:11.839] [log] [info] Solver: Position-based Dynamics Gauss-Seidel
+[2019-12-19 02:49:11.865] [log] [info] Graph Info:
+[2019-12-19 02:49:11.865] [log] [info]  size: 26798, max degree: 15, min degree 4, avg degree 9.90962
+[2019-12-19 02:49:11.944] [log] [info] [30] colored: 26798 / 26798 [colors: 11]
+[2019-12-19 02:49:11.944] [log] [info] nb batches: 11
+[2019-12-19 02:49:11.944] [log] [info] 0: 4010  1: 4025  2: 4013  3: 4001  4: 3868  5: 3056  6: 2387  7: 1181  8: 232  9: 23  10: 2  
+[2019-12-19 02:49:12.053] [log] [info] Graph Info:
+[2019-12-19 02:49:12.053] [log] [info]  size: 25139, max degree: 39, min degree 7, avg degree 27.4046
+[2019-12-19 02:49:12.262] [log] [info] [40] colored: 25139 / 25139 [colors: 23]
+[2019-12-19 02:49:12.262] [log] [info] nb batches: 23
+[2019-12-19 02:49:12.262] [log] [info] 0: 1541  1: 1536  2: 1524  3: 1541  4: 1527  5: 1531  6: 1530  7: 1527  8: 1522  9: 1504  10: 1434  11: 1425  12: 1377  13: 1288  14: 1142  15: 1025  16: 917  17: 701  18: 381  19: 139  20: 21  21: 5  22: 1  
+[2019-12-19 02:49:12.302] [log] [info] Collider: Self16
+[2019-12-19 02:49:12.376] [log] [info] ParticleSystem::RemoveSelfIntersectingSurfaceParticles updating gpu data structures ...
+[2019-12-19 02:49:12.376] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-19 02:49:12.377] [log] [info] Collider: Mesh Collider17
+[2019-12-19 02:49:12.390] [log] [info] initialization finished, duration: 0.80983
+[2019-12-19 02:49:22.669] [log] [info] msg:   deform   prt 100.00 glb 100.00 - time 10279.47 - fps: 0.00 avg fps: 0.02
+[2019-12-19 02:49:22.669] [log] [info] msg: 
+[2019-12-19 02:49:22.669] [log] [info] GPU CUDA
+[2019-12-19 02:49:22.669] [log] [info] iterations: 2 dt: 0.001
+[2019-12-19 02:49:22.669] [log] [info] total constraints: 51937 total particles: 9211
+[2019-12-19 02:49:22.669] [log] [info] avg_err: 0%
+[2019-12-19 02:49:22.669] [log] [info] shutting down..
+[2019-12-19 02:49:22.670] [log] [info] Integrator: Destroy
+[2019-12-19 02:49:22.670] [log] [info] solver: deallocating gpu data structures ..
+[2019-12-19 02:49:22.671] [log] [info] solver: done
+[2019-12-19 02:49:22.671] [log] [info] Collider Self GPU data structures destroyed
+[2019-12-19 02:49:22.674] [log] [info] Collider: Self16 destroyed
+[2019-12-19 02:49:22.674] [log] [info] Collider: Mesh Collider17 destroyed
