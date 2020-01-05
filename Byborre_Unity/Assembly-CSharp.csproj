@@ -387,6 +387,7 @@
     <Compile Include="Assets\M-XR\Scripts\Armature.cs" />
     <Compile Include="Assets\M-XR\Scripts\FabricManager.cs" />
     <Compile Include="Assets\M-XR\Scripts\FabricPatch.cs" />
+    <Compile Include="Assets\M-XR\Scripts\HandDetector.cs" />
     <Compile Include="Assets\M-XR\Scripts\HingeJointTarget.cs" />
     <Compile Include="Assets\M-XR\Scripts\LightController.cs" />
     <Compile Include="Assets\M-XR\Scripts\LightSwitch.cs" />
